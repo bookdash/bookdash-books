@@ -1,0 +1,65 @@
+/*
+Title: Book Dash books screen styles
+Author: Arthur Attwell
+Author URI: http://arthurattwell.com/
+Description: Screen styles for Book Dash books
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,600,600italic,700,700italic);
+
+/*
+ * Structure
+ */
+
+body {
+	font-family: "Crimson Text", serif;
+}
+#wrapper{
+	max-width: 960px;
+	margin: auto;
+}
+
+/*
+ * Title page 
+ */
+
+.titlepage-title {
+	text-align: center;
+	font-size: 3em;
+	font-weight: 700;
+	margin: 20% 0 0 0;
+	line-height: 100%;
+}
+.titlepage-subtitle {
+	text-align: center;
+	font-size: 3em;
+	font-weight: 400;
+	margin: 0 0 1em 0;
+	line-height: 100%;
+}
+.titlepage-author {
+	text-align: center;
+	font-size: 1.5em;
+	margin: 0 0 2em 0;
+}
+.titlepage-logo {
+	width: 200px;
+}
+
+/* 
+ * General typography 
+ */
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 600;
+	line-height: 120%;
+	page-break-after: avoid;
+}
+h1 {
+	max-width: 80%;
+	line-height: 100%;
+}
