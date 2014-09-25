@@ -5,4 +5,4 @@ layout: default
 
 # Books
 
-*	[Sleepy Mr Sloth](sleepy-mr-sloth.html)
+*	[Sleepy Mr Sloth](sleepy-mr-sloth)
