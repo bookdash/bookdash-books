@@ -73,7 +73,7 @@ You gave him quite a scare.
 This branch looks lovely!  
 I think I’ll sleep here.  
 And you? Don’t you think  
-that’s a splendid idea?\
+that’s a splendid idea?
 
 ![Mr Sloth spots and branch. There are feet nearby.](images/9.jpg)
 {:.page-break-after}
@@ -113,16 +113,11 @@ Illustrated by Graham Paterson
 Written by Paul Kennedy  
 Designed by Nick Mulgrew  
 Edited by Arthur Attwell and Tarryn-Anne Anderson  
-with the help of the Book Dash participants at Cape Town on 10 May 2014, listed here: [bookdash.org/20140510-cape-town](bookdash.org/20140510-cape-town)
-
-ISBN: 978-0-9922357-0-3
-
-This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/). You are free to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) this work for any purpose, even commercially. The licensor cannot revoke these freedoms as long as you follow the following license terms:
-
-Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-
-No additional restrictions: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-Notices: You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
-
+with the help of the [Book Dash participants at Cape Town on 10 May 2014](http://bookdash.org/20140510-cape-town).  
+ISBN: 978-0-9922357-0-3  
+This work is licensed under a [Creative Commons Attribution 4.0 Licence](http://creativecommons.org/licenses/by/4.0/). You are free to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) this work for any purpose, even commercially. The licensor cannot revoke these freedoms as long as you follow the following license terms:  
+Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  
+No additional restrictions: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  
+Notices: You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.  
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+{:.imprint-text}

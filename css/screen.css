@@ -45,8 +45,16 @@ h1 {
 }
 p, ol, ul, dl {
 	max-width: 20em;
+	margin: 0 0 1em 0;
 }
-
+.imprint-text {
+	font-size: 0.5em;
+	max-width: 40em;
+}
+a {
+	text-decoration: none;
+	color: #33a0c9;
+}
 /*
  * Images
  */
