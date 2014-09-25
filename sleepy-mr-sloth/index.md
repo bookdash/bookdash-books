@@ -1,5 +1,5 @@
 ---
-title: Sleep Mr Sloth
+title: Sleepy Mr Sloth
 layout: default
 ---
 
