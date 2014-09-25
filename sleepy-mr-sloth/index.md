@@ -1,6 +1,6 @@
 ---
 title: Title page
-layout: frontmatter
+layout: default
 ---
 
 ![Sleepy Mr Sloth cover](images/cover.jpg)
