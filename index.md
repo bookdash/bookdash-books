@@ -1,6 +1,6 @@
 ---
 title: Book Dash books
-layout: default
+layout: home
 ---
 
 ![Book Dash](images/book-dash-logo.png)

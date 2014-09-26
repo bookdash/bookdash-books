@@ -18,6 +18,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 body {
 	font-family: "Crimson Text", serif;
 	font-size: 2em;
+}
+#home { /* Only applies to home.html layout */
 	margin: 1em 0 1em 0;
 }
 #wrapper{
