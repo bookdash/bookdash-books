@@ -21,6 +21,7 @@ body {
 }
 #home { /* Only applies to home.html layout */
 	margin: 1em 0 1em 0;
+	font-size: 0.75em;
 }
 #wrapper{
 	max-width: 960px;
