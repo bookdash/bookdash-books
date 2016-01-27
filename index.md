@@ -1,6 +1,7 @@
 ---
-title: Book Dash books
-layout: home
+book-title: Book Dash
+title: Books
+style: home
 ---
 
 ![Book Dash](images/book-dash-logo.png)
@@ -13,4 +14,7 @@ Everything is licensed under a [Creative Commons Attribute 4.0 licence](http://c
 
 # Books
 
-*	[Sleepy Mr Sloth](sleepy-mr-sloth)
+[Sleepy Mr Sloth](sleepy-mr-sloth)
+
+[A Fish and a Gift](a-fish-and-a-gift)
+

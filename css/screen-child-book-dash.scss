@@ -1,0 +1,38 @@
+---
+# Child styles
+---
+
+@charset "utf-8";
+
+// Structure
+
+#wrapper {
+    padding-top: 4em; // Prevents cover disappearing under nav bar
+}
+
+// Typography
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+}
+p, ol, ul, dl {
+	text-indent: 0;
+	margin-bottom: 1em;
+}
+
+// Copyright
+
+.imprint-text {
+	font-size: 0.7em;
+	max-width: 40em;
+}
+
+// Images
+
+img {
+	max-width: 100%;
+	max-height: 90vh;
+}
+.imprint-logo {
+	max-width: 3em;
+}

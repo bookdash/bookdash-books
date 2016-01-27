@@ -1,11 +1,70 @@
-name: "Book Dash books"
-description: "Jekyll setup for turning markdown into HTML for Book Dash books, see http://bookdash.org"
+# Add your imprint or brand name here, it will appear in navigation.
+publisher: "Book Dash"
 
+# Your publisher name will link to this URL in navigation.
+publisher-url: "http://bookdash.org"
+
+# The name of the series of books in this folder.
+name: "Children's books"
+
+# A one-liner about this series. Useful for Open Graph metadata.
+description: "Book Dash creates new, African children's books that anyone can freely download, translate and distribute."
+
+# The primary language used in this series. You can set the language for each book individually below at 'defaults'. 
+# To understand what language tags to use, read: http://www.w3.org/International/articles/language-tags/ 
+# For the registry of tags: http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry 
+# Useful lookup tool: http://r12a.github.io/apps/subtags/
+language: en
+
+# Leave this unchanged as http://localhost:4000 unless you really know what you're doing here. This is the URL that Jekyll will run at by default locally.
 url: http://localhost:4000
+
+# Change this to the name of your series folder, e.g. /my-cool-books
 baseurl: /bookdash-books
 
-paginate: 10
-
+# Leave this unchanged as kramdown unless you really know how and why to change your markdown processor
 markdown: kramdown
+
+# Leave this unchanged as none. This way, your book's chapters will all generate correctly named in one folder.
+# This is really useful for grabbing allyour HTML files at once for including in epubs or sending to PrinceXML.
 permalink: none
-highlighter: pygments
+
+# Leave this unchanged. It tells Jekyll where to find Sass partials. (See http://jekyllrb.com/docs/assets/#sassscss)
+sass:
+    sass_dir: css/_sass
+
+# These are default YAML values that apply to multiple documents. (For technical details, see http://jekyllrb.com/docs/configuration/#front-matter-defaults).
+defaults: 
+    -
+        scope: # First we set defaults for all files in this series folder (an empty string "" for path means all files).
+            path: ""
+        values:
+            language: "en"
+            publication-date: "2015-12-01"
+            layout: "default"
+            style: "chapter"
+            stylesheet: "screen.css"
+            stylesheet-child: "screen-child-book-dash.css"
+            contents: "index.html"
+            language: "en"
+            isbn-print: ""
+            isbn-epub: ""
+            uuid: ""
+    -
+        scope: # Now enter details for your first book. The `path` is the book's folder. The `values` are specific to the book in that folder. Add values to override the defaults above per book. Remember to indent with spaces, not tabs, for valid YAML.
+            path: "sleepy-mr-sloth"
+        values:
+            book-title: "Sleepy Mr Sloth"
+            language: "en"
+            isbn-print: ""
+            isbn-epub: ""
+            uuid: ""
+    -
+        scope: # Repeat for each book.
+            path: "a-fish-and-a-gift"
+        values:
+            book-title: "A Fish and a Gift"
+            language: "en"
+            isbn-print: ""
+            isbn-epub: ""
+            uuid: ""
