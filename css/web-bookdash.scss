@@ -34,23 +34,20 @@
 // Set variables
 // -------------
 
-$font-text-main: "Linux Libertine", serif;
-$font-text-secondary: "Source Sans Pro", sans-serif;
-$font-display-main: "Source Sans Pro", sans-serif;
-$font-display-secondary: "Linux Libertine", serif;
+$font-text-main: "PT Serif", serif;
+$font-text-secondary: "PT Serif", sans-serif;
+$font-display-main: "PT Serif", sans-serif;
+$font-display-secondary: "PT Serif", serif;
 $font-code: "Inconsolata", monospace;
 
-$font-size-default: 1.2em;
+$font-size-default: 1.5em;
 $line-height-default: 150%;
 
 // ----------------------------------------------------
 // Import font files (@font-face) for fonts you specify
 // ----------------------------------------------------
 
-@import "fonts/linux-libertine";
-@import "fonts/source-sans-pro";
-@import "fonts/inconsolata";
-// @import "font-crimson";
+@import url(https://fonts.googleapis.com/css?family=PT+Serif&subset=latin,latin-ext);
 
 // -------------------
 // Import master theme
@@ -64,3 +61,34 @@ $line-height-default: 150%;
 // -------------
 
 // Add any custom style rules here.
+
+#wrapper {
+    padding-top: 4em; // Prevents cover disappearing under nav bar
+}
+
+// Typography
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+}
+p, ol, ul, dl {
+	text-indent: 0;
+	margin-bottom: 1em;
+}
+
+// Copyright
+
+.imprint-text {
+	font-size: 0.7em;
+	max-width: 40em;
+}
+
+// Images
+
+img {
+	max-width: 100%;
+	max-height: 90vh;
+}
+.imprint-logo {
+	max-width: 3em;
+}

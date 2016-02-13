@@ -1,5 +1,77 @@
 @charset "UTF-8";
-@import url(https://fonts.googleapis.com/css?family=EB+Garamond&subset=latin,latin-ext);
+@font-face {
+  font-family: "Linux Libertine";
+  src: url(fonts/LinLibertine_R.otf); }
+@font-face {
+  font-family: "Linux Libertine";
+  src: url(fonts/LinLibertine_RI.otf);
+  font-style: italic; }
+@font-face {
+  font-family: "Linux Libertine";
+  src: url(fonts/LinLibertine_RB.otf);
+  font-weight: bold; }
+@font-face {
+  font-family: "Linux Libertine";
+  src: url(fonts/LinLibertine_RBI.otf);
+  font-style: italic;
+  font-weight: bold; }
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url(fonts/SourceSansPro-Black.ttf);
+  font-weight: 900; }
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url(fonts/SourceSansPro-BlackItalic.ttf);
+  font-weight: 900;
+  font-style: italic; }
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url(fonts/SourceSansPro-Bold.ttf);
+  font-weight: 700; }
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url(fonts/SourceSansPro-BoldItalic.ttf);
+  font-weight: 700;
+  font-style: italic; }
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url(fonts/SourceSansPro-ExtraLight.ttf);
+  font-weight: 200; }
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url(fonts/SourceSansPro-ExtraLightItalic.ttf);
+  font-weight: 200;
+  font-style: italic; }
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url(fonts/SourceSansPro-Italic.ttf);
+  font-weight: 400;
+  font-style: italic; }
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url(fonts/SourceSansPro-Light.ttf);
+  font-weight: 300; }
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url(fonts/SourceSansPro-LightItalic.ttf);
+  font-weight: 300;
+  font-style: italic; }
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url(fonts/SourceSansPro-Regular.ttf);
+  font-weight: 400; }
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url(fonts/SourceSansPro-Semibold.ttf);
+  font-weight: 600; }
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url(fonts/SourceSansPro-SemiboldItalic.ttf);
+  font-weight: 600;
+  font-style: italic; }
+@font-face {
+  font-family: "Inconsolata", monospace;
+  src: url(fonts/Inconsolata-Regular.ttf); }
 /* 
  * Structure 
  */
@@ -17,8 +89,8 @@ body {
  * General typography 
  */
 body {
-  font-family: "EB Garamond", serif;
-  font-size: 1.5em;
+  font-family: "Linux Libertine", serif;
+  font-size: 1.2em;
   line-height: 150%;
   -moz-font-feature-settings: "liga", "kern";
   -ms-font-feature-settings: "liga", "kern";
@@ -128,7 +200,7 @@ dd {
   #nav-bar {
     position: relative; } }
 #nav-bar p, #nav-bar ul, #nav-bar ol {
-  font-family: "EB Garamond", serif;
+  font-family: "Source Sans Pro", sans-serif;
   font-size: 0.8em;
   font-weight: 300;
   color: #333333;
@@ -392,7 +464,7 @@ a.button {
   display: inline-block;
   background-color: #4f89d2;
   color: white;
-  font-family: "EB Garamond", serif;
+  font-family: "Source Sans Pro", sans-serif;
   padding: 0.5em;
   margin: 0;
   border-radius: 0.2em;
@@ -526,7 +598,7 @@ sup:target {
   /* Prevents footnote references from disappearing below the fixed nav bar when linked to. */ }
 
 .sidenote {
-  font-family: "EB Garamond", serif;
+  font-family: "Source Sans Pro", sans-serif;
   font-weight: 300;
   clear: both;
   float: right;
@@ -742,9 +814,98 @@ ul.verse li.indent-29 {
 ul.verse li.indent-30 {
   margin-left: 32em; }
 
+ul.verse li.indent-31 {
+  margin-left: 33em; }
+
+ul.verse li.indent-32 {
+  margin-left: 34em; }
+
+ul.verse li.indent-33 {
+  margin-left: 35em; }
+
+ul.verse li.indent-34 {
+  margin-left: 36em; }
+
+ul.verse li.indent-35 {
+  margin-left: 37em; }
+
+ul.verse li.indent-36 {
+  margin-left: 38em; }
+
+ul.verse li.indent-37 {
+  margin-left: 39em; }
+
+ul.verse li.indent-38 {
+  margin-left: 40em; }
+
+ul.verse li.indent-39 {
+  margin-left: 41em; }
+
+ul.verse li.indent-40 {
+  margin-left: 42em; }
+
+ul.verse li.indent-41 {
+  margin-left: 43em; }
+
+ul.verse li.indent-42 {
+  margin-left: 44em; }
+
+ul.verse li.indent-43 {
+  margin-left: 45em; }
+
+ul.verse li.indent-44 {
+  margin-left: 46em; }
+
+ul.verse li.indent-45 {
+  margin-left: 47em; }
+
+ul.verse li.indent-46 {
+  margin-left: 48em; }
+
+ul.verse li.indent-47 {
+  margin-left: 49em; }
+
+ul.verse li.indent-48 {
+  margin-left: 50em; }
+
+ul.verse li.indent-49 {
+  margin-left: 51em; }
+
+ul.verse li.indent-50 {
+  margin-left: 52em; }
+
+ul.verse li.indent-51 {
+  margin-left: 53em; }
+
+ul.verse li.indent-52 {
+  margin-left: 54em; }
+
+ul.verse li.indent-53 {
+  margin-left: 55em; }
+
+ul.verse li.indent-54 {
+  margin-left: 56em; }
+
+ul.verse li.indent-55 {
+  margin-left: 57em; }
+
+ul.verse li.indent-56 {
+  margin-left: 58em; }
+
+ul.verse li.indent-57 {
+  margin-left: 59em; }
+
+ul.verse li.indent-58 {
+  margin-left: 60em; }
+
+ul.verse li.indent-59 {
+  margin-left: 61em; }
+
+ul.verse li.indent-60 {
+  margin-left: 62em; }
+
 /* Verse in a blockquote centres on its longest line, which is best-practice poetry layout */
 blockquote.verse {
-  text-align: center;
   color: inherit;
   margin-top: 0;
   width: 100%;
@@ -761,11 +922,6 @@ blockquote.verse h6 {
 blockquote.verse ul {
   margin-bottom: 0;
   /* Already gets its space after from ul.verse */ }
-
-blockquote.verse ul.verse {
-  text-align: left;
-  display: inline-block;
-  min-width: 51%; }
 
 /* If verse is in a list, we can preserve line breaks and white space */
 ul.verse li {
@@ -804,6 +960,12 @@ ul.verse li h6 {
   margin-left: -5em; }
 
 /* Overrides indent applied to .verse li */
+ul.verse li:empty {
+  line-height: 100%; }
+
+ul.verse li:empty:after {
+  content: " "; }
+
 /*
  * Video
  */

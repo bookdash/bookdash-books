@@ -1,10 +1,15 @@
+@charset "UTF-8";
+@import url(https://fonts.googleapis.com/css?family=PT+Serif&subset=latin,latin-ext);
+/* 
+ * Structure 
+ */
 body {
   margin: 0;
   padding: 0; }
 
 #wrapper {
   clear: both;
-  max-width: 960px;
+  max-width: 40em;
   margin: auto;
   padding: 0 0.3em 0 0.3em; }
 
@@ -12,8 +17,8 @@ body {
  * General typography 
  */
 body {
-  font-family: "Linux Libertine", serif;
-  font-size: 1.2em;
+  font-family: "PT Serif", serif;
+  font-size: 1.5em;
   line-height: 150%;
   -moz-font-feature-settings: "liga", "kern";
   -ms-font-feature-settings: "liga", "kern";
@@ -62,10 +67,22 @@ p {
   margin: 0;
   text-indent: 1em; }
 
+p:first-of-type {
+  text-indent: 0; }
+
 sup, sub {
   line-height: 100%; }
 
-/* Blockquotes */
+ul ul, ol ol, blockquote ul ul, blockquote ol ol {
+  margin-bottom: 0; }
+
+ol ol {
+  list-style-type: lower-alpha; }
+
+a {
+  text-decoration: none;
+  color: #5f738c; }
+
 blockquote {
   margin: 1em 0 0.5em 0;
   padding: 0 1em;
@@ -94,29 +111,86 @@ dt {
 dd {
   margin: 0 0 1em 1em; }
 
-/*
- * Code
+/* 
+ * Nav bar
  */
-pre, code {
-  font-family: "Inconsolata", monospace;
-  white-space: pre-wrap;
-  background-color: #f9f9f9;
-  padding: 0.1em 0.3em;
-  border-radius: 0.2em;
-  font-weight: 200;
-  font-size: 0.9em; }
+#nav-bar {
+  position: fixed;
+  top: 0;
+  background-color: white;
+  padding: 0 0.5em;
+  width: 100%;
+  opacity: 0.9;
+  border-bottom: 1px solid #f2f2f2;
+  z-index: 1; }
 
-pre code {
-  padding: 0; }
+@media only screen and (max-height: 320px) {
+  #nav-bar {
+    position: relative; } }
+#nav-bar p, #nav-bar ul, #nav-bar ol {
+  font-family: "PT Serif", sans-serif;
+  font-size: 0.8em;
+  font-weight: 300;
+  color: #333333;
+  text-transform: uppercase;
+  letter-spacing: 0.025em;
+  float: right;
+  margin: 0.66em 1em 0.5em 0; }
 
-/* Links */
-a {
+#nav-bar a {
   text-decoration: none;
-  color: #5f738c; }
+  color: inherit; }
+
+#nav-bar a.nav-series:after,
+#nav-bar a.nav-book:after {
+  content: " •"; }
+
+#nav-bar a:hover {
+  color: #666666; }
+
+.home #nav-bar,
+.cover #nav-bar {
+  display: none; }
+
+/* 
+ * Footer
+ */
+#footer {
+  border-top: 1px solid #f2f2f2;
+  margin: 2em 0 0 0;
+  padding: 1em 0.3em 2em 0.3em; }
+
+.footer-content {
+  clear: both;
+  max-width: 40em;
+  margin: auto;
+  color: grey; }
+
+#footer p,
+#footer ol,
+#footer ul {
+  font-size: 0.8em;
+  text-indent: 0;
+  margin: 0 0 0.5em 0; }
+
+#footer a.footer-publisher:after,
+#footer a.footer-series:after,
+#footer a.footer-book:after {
+  content: " •"; }
+
+.home {
+  margin-bottom: 2em; }
+
+.home #footer a.footer-book {
+  display: none; }
 
 /*
  * Cover image. This is useful for landing pages for individual books.
  */
+/* No nav bar obscuring cover image */
+.cover #nav-bar {
+  display: none; }
+
 body.cover {
   margin: 0;
   padding: 0;
@@ -151,7 +225,8 @@ img.thumbnail {
   font-weight: 700;
   margin: 20% 0 0 0;
   line-height: 100%;
-  text-indent: 0; }
+  text-indent: 0;
+  string-set: book-title content(); }
 
 .title-page-subtitle {
   font-size: 3em;
@@ -260,7 +335,7 @@ ul#markdown-toc, ol#markdown-toc {
   text-decoration: none; }
 
 /*
- * Bibliographies set as lists (similar in appearance to lines of verse set as a list with indented runovers
+ * Bibliographies set as lists (similar in appearance to lines of verse set as a list with indented runovers)
  */
 .bibliography {
   text-indent: 0;
@@ -296,8 +371,15 @@ p.box {
   padding-bottom: 1em;
   text-indent: 0; }
 
+.box + p {
+  text-indent: 0; }
+
 .box h1, .box h2, .box h3, .box h4, .box h5, .box h6 {
   margin-top: 0; }
+
+.box li p:last-of-type {
+  /* Paragraphs within list items in a box */
+  margin-bottom: 0; }
 
 .box dl:first-of-type {
   /* Definition lists inside a box */
@@ -310,7 +392,7 @@ a.button {
   display: inline-block;
   background-color: #4f89d2;
   color: white;
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "PT Serif", sans-serif;
   padding: 0.5em;
   margin: 0;
   border-radius: 0.2em;
@@ -322,6 +404,35 @@ a.button {
 
 a.button:hover {
   background-color: #4faad2; }
+
+/*
+ * Code
+ */
+pre, code {
+  font-family: "Inconsolata", monospace;
+  white-space: pre-wrap;
+  background-color: #f9f9f9;
+  padding: 0.1em 0.3em;
+  border-radius: 0.2em;
+  font-weight: 200;
+  font-size: 0.9em; }
+
+pre code {
+  padding: 0; }
+
+pre + p {
+  text-indent: 0; }
+
+/* Definition lists used in a simple glossary */
+.glossary dl, dl.glossary {
+  color: inherit; }
+
+.glossary dt {
+  float: left;
+  color: inherit; }
+
+.glossary dt:after {
+  content: ":\00a0"; }
 
 /* 
  * Figures 
@@ -351,6 +462,12 @@ blockquote.figure {
   max-width: 100%;
   object-fit: scale-down; }
 
+@media screen and (max-height: 800px) {
+  blockquote.figure p img {
+    max-height: 400px; } }
+@media screen and (max-height: 500px) {
+  blockquote.figure p img {
+    max-height: 200px; } }
 .figure p:nth-child(2) {
   /* This controls the appearance of captions added as a paragraph following the image inside the blockquote */
   padding: 0.5em 0 0 0;
@@ -360,19 +477,9 @@ blockquote.figure {
 .figure.large p img {
   max-height: inherit; }
 
-/* Definition lists used in a simple glossary */
-.glossary dl, dl.glossary {
-  color: inherit; }
-
-/* By default this is commented out of epub.css because ADE doesn't support pseaudo classes 
-.glossary dt {
-	float: left;
-	color: inherit;
-}
-.glossary dt:after {
-    content: ":\00a0";
-}
-*/
+@media screen and (min-width: 600px) {
+  .figure.large p img {
+    max-height: 600px; } }
 .reference-index li {
   list-style-type: none;
   text-indent: -2em; }
@@ -408,7 +515,8 @@ a.indexed {
  */
 .footnotes {
   margin: 2em 0 0 0;
-  border-top: 1px solid #e9e9e9; }
+  border-top: 1px solid #e9e9e9;
+  color: #555555; }
 
 .footnotes p {
   text-indent: 0; }
@@ -418,33 +526,45 @@ sup:target {
   /* Prevents footnote references from disappearing below the fixed nav bar when linked to. */ }
 
 .sidenote {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "PT Serif", sans-serif;
+  font-weight: 300;
   clear: both;
   float: right;
+  max-width: 10em;
   min-width: 5em;
+  margin: 0 -12em 0.5em 2em;
   padding: 0.5em;
   border-top: 1px solid #eeeeee;
   text-indent: 0;
   font-size: 0.8em;
   font-style: inherit;
   line-height: 120%;
-  position: relative;
-  max-width: 40%;
-  margin: 0 0 0.5em 0.5em;
   background-color: white; }
 
+@media only screen and (max-width: 85em) {
+  /* On narrow screens, text wraps around sidenotes */
+  .sidenote {
+    float: right;
+    position: relative;
+    max-width: 40%;
+    margin: 0 0 0.5em 0.5em; } }
+/* If sidenotes are blockquotes, the text will be in a p, so inherit appearance from .sidenote, not p */
+.sidenote p {
+  line-height: inherit;
+  color: inherit; }
+
+/* Some sidenotes are inside boxes and need different margins */
+.box .sidenote {
+  margin-right: -13.25em; }
+
+@media only screen and (max-width: 55em) {
+  .box .sidenote {
+    margin-right: inherit; } }
 /* Only used for print output, ignored for screen. */
-/* 
- * Openers
- */
 p.first {
-  /* A paragraph that starts a new set of paragraphs, with a gap above it. */
   margin: 1em 0 0 0;
   text-indent: 0; }
 
-/*
- * Pull quotes, useful for blockquotes and definition lists 
- */
 .pullquote {
   text-indent: 0;
   font-size: 1.5em;
@@ -454,12 +574,8 @@ p.first {
   margin: 1em 0;
   max-width: 23em; }
 
-.pullquote + p {
-  text-indent: 0; }
-
 .source {
   text-align: right;
-  max-width: 22.5em;
   margin: 0 0 0 25%; }
 
 /*
@@ -513,8 +629,7 @@ td ul, td ol {
   text-align: right; }
 
 .valediction + p {
-  text-indent: 0;
-  /* Paragraphs after a valediction should be flush left */ }
+  text-indent: 0; }
 
 /*
  * Verse, poetry, lyrics
@@ -752,32 +867,56 @@ ul.verse li h6 {
 ul.verse li h1 {
   margin-left: -1.75em; }
 
-/* Overrides indent applies to .verse li */
+/* Overrides indent applied to .verse li */
 ul.verse li h2 {
   margin-left: -2.25em; }
 
-/* Overrides indent applies to .verse li */
+/* Overrides indent applied to .verse li */
 ul.verse li h3 {
   margin-left: -3em; }
 
-/* Overrides indent applies to .verse li */
+/* Overrides indent applied to .verse li */
 ul.verse li h4 {
   margin-left: -3.5em; }
 
-/* Overrides indent applies to .verse li */
+/* Overrides indent applied to .verse li */
 ul.verse li h5 {
   margin-left: -4.25em; }
 
-/* Overrides indent applies to .verse li */
+/* Overrides indent applied to .verse li */
 ul.verse li h6 {
   margin-left: -5em; }
 
-/* Overrides indent applies to .verse li */
+/* Overrides indent applied to .verse li */
 ul.verse li:empty {
   line-height: 100%; }
 
 ul.verse li:empty:after {
   content: " "; }
+
+/*
+ * Video
+ */
+.videowrapper {
+  float: none;
+  clear: both;
+  width: 100%;
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 25px;
+  height: 0;
+  margin: 1em 0; }
+
+.videowrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
+
+.videowrapper + p {
+  text-indent: 0;
+  /* Don't indent a paragraph after a video. */ }
 
 /* Use small-cap alternate glyphs */
 .smallcaps {
@@ -811,7 +950,6 @@ ul.verse li:empty:after {
   font-size: 0.7em;
   /* Useful for wide tables */ }
 
-/* Finally, set flush left and override any top-margin inadvertently added with .first or similar on a paragraph after a heading, blockquote, list, code, or definition list, or after sidenotes after headings, tables or boxes */
 h1 + p,
 h2 + p,
 h3 + p,
@@ -830,12 +968,28 @@ h4 + p.sidenote + p,
 h5 + p.sidenote + p,
 h6 + p.sidenote + p,
 .box + p.sidenote + p,
-table + p.sidenote + p {
+table + p.sidenote + p,
+.pullquote + p {
   text-indent: 0;
   margin-top: 0; }
 
-.box + p {
-  text-indent: 0; }
+#wrapper {
+  padding-top: 4em; }
 
-pre + p {
-  text-indent: 0; }
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal; }
+
+p, ol, ul, dl {
+  text-indent: 0;
+  margin-bottom: 1em; }
+
+.imprint-text {
+  font-size: 0.7em;
+  max-width: 40em; }
+
+img {
+  max-width: 100%;
+  max-height: 90vh; }
+
+.imprint-logo {
+  max-width: 3em; }

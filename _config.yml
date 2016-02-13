@@ -45,7 +45,7 @@ defaults:
 #            layout: "epub"
             style: "chapter"
             stylesheet-print: "print.css"
-            stylesheet-web: "web.css"
+            stylesheet-web: "web-bookdash.css"
             stylesheet-epub: "epub.css"
             contents: "index.html"
             language: "en"
