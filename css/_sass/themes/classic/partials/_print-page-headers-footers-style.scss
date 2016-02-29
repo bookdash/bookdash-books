@@ -80,3 +80,71 @@
     @include header-style();
   }
 }
+
+// Verso
+@page frontmatter:left {
+  @top {
+    @include header-style();
+  }
+  @top-right {
+    @include header-style();
+  }
+  @top-left {
+    @include header-style();
+  }
+  @top-right-corner {
+    @include header-style();
+  }
+  @top-left-corner {
+    @include header-style();
+  }
+  @bottom {
+    @include header-style();
+  }
+  @bottom-left {
+    @include header-style();
+  }
+  @bottom-right {
+    @include header-style();
+  }
+  @bottom-left-corner {
+    @include header-style();
+  }
+  @bottom-right-corner {
+    @include header-style();
+  }
+}
+
+// Recto
+@page frontmatter:right {
+  @top {
+    @include header-style();
+  }
+  @top-right {
+    @include header-style();
+  }
+  @top-left {
+    @include header-style();
+  }
+  @top-right-corner {
+    @include header-style();
+  }
+  @top-left-corner {
+    @include header-style();
+  }
+  @bottom {
+    @include header-style();
+  }
+  @bottom-left {
+    @include header-style();
+  }
+  @bottom-right {
+    @include header-style();
+  }
+  @bottom-left-corner {
+    @include header-style();
+  }
+  @bottom-right-corner {
+    @include header-style();
+  }
+}
