@@ -54,7 +54,7 @@ $line-height-default: 150%;
 // -------------------
 
 // Classic theme
-@import "themes/classic/web";
+@import "themes/bookdash-ebooks/web";
 
 // -------------
 // Custom styles
@@ -68,26 +68,29 @@ $line-height-default: 150%;
 
 // Typography
 
-h1, h2, h3, h4, h5, h6 {
-	font-weight: normal;
+h1 {
+    margin-bottom: 2em;
 }
 p, ol, ul, dl {
 	text-indent: 0;
-	margin-bottom: 1em;
+	margin-bottom: 0.5em;
 }
 
 // Copyright
 
-.imprint-text {
-	font-size: 0.7em;
-	max-width: 40em;
+.copyright-text {
+    margin-top: 4em;
+    font-size: 0.7em;
+    max-width: 40em;
+    border-top: 1px solid silver;
+    padding-top: 1em;
 }
 
 // Images
 
 img {
 	max-width: 100%;
-	max-height: 90vh;
+	max-height: 70vh;
 }
 .imprint-logo {
 	max-width: 3em;

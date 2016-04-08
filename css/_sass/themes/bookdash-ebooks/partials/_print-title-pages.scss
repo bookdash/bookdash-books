@@ -1,0 +1,40 @@
+/*
+ * Halftitle-page and title-page
+ */
+
+.title-page, .halftitle-page {
+	margin-right: auto;
+	margin-left: auto;
+}
+.title-page p {
+	text-indent: 0;
+	hyphens: none;
+	text-align: left;
+}
+.title-page-title {
+	font-size: $font-size-default * 3;
+	line-height: $line-height-default * 3;
+	font-variant: prince-opentype(dlig);
+	margin: ($line-height-default * 6) 0 $line-height-default 0;
+	string-set: book-title content ();
+}
+.title-page-subtitle {
+	font-size: $font-size-default * 2;
+	line-height: $line-height-default * 2;
+	font-style: italic;
+	margin: $line-height-default 0 $line-height-default 0;
+	font-variant: prince-opentype(dlig);
+	string-set: book-subtitle content ();
+}
+.title-page-author {
+	font-size: $font-size-default * 2;
+	line-height: $line-height-default * 2;
+	margin: $line-height-default 0;
+	font-variant: prince-opentype(dlig);
+	string-set: book-author content ();
+}
+.title-page-logo {
+	width: 3em;
+	position: absolute;
+	bottom: 0;
+}

@@ -5,10 +5,10 @@ publisher: "Book Dash"
 publisher-url: "http://bookdash.org"
 
 # The name of the series of books in this folder.
-name: "Children's books"
+name: "Book Dash ebooks"
 
 # A one-liner about this series. Useful for Open Graph metadata.
-description: "Book Dash creates new, African children's books that anyone can freely download, translate and distribute."
+description: "Ebooks from Book Dash: new, African children's books that anyone can freely download, translate and distribute."
 
 # The primary language used in this series. You can set the language for each book individually below at 'defaults'. 
 # To understand what language tags to use, read: http://www.w3.org/International/articles/language-tags/ 
@@ -35,38 +35,66 @@ sass:
 
 # These are default YAML values that apply to multiple documents. (For technical details, see http://jekyllrb.com/docs/configuration/#front-matter-defaults).
 defaults: 
-    -
-        scope: # First we set defaults for all files in this series folder (an empty string "" for path means all files).
+    -   # Defaults for all books
+        scope: 
             path: ""
         values:
             language: "en"
-            publication-date: "2015-12-01"
             layout: "default"
 #            layout: "epub"
-            style: "chapter"
-            stylesheet-print: "print.css"
+            stylesheet-print: "print-bookdash.css"
             stylesheet-web: "web-bookdash.css"
-            stylesheet-epub: "epub.css"
+            stylesheet-epub: "epub-bookdash.css"
+            style: "chapter"
             contents: "index.html"
             language: "en"
-            isbn-print: ""
-            isbn-epub: ""
-            uuid: ""
-    -
-        scope: # Now enter details for your first book. The `path` is the book's folder. The `values` are specific to the book in that folder. Add values to override the defaults above per book. Remember to indent with spaces, not tabs, for valid YAML.
+            images-folder: images
+    -   # Defaults for all editions of a book
+        scope:
             path: "sleepy-mr-sloth"
         values:
+            book-title-en: ""  # Title in English
+            illustrator: "Graham Paterson"
+            writer: "Paul Kennedy"
+            designer: "Nick Mulgrew"
             book-title: "Sleepy Mr Sloth"
+            book-dash-day: "Cape Town 10 May 2014"
+            publication-date: "2014-05-10"
+    -   # Defaults for each language
+        scope:
+            path: "sleepy-mr-sloth/en"
+        values:
             language: "en"
             isbn-print: ""
             isbn-epub: ""
             uuid: ""
-    -
-        scope: # Repeat for each book.
+            translator: ""
+    -   # Defaults for all editions of a book
+        scope:
             path: "a-fish-and-a-gift"
         values:
-            book-title: "A Fish and a Gift"
-            language: "en"
+            book-title-en: "A Fish and a Gift" # Title in English
+            illustrator: "Jesse Breytenbach"
+            writer: "Liesl Jobson"
+            designer: "Andy Thesen"
+            book-dash-day: "Cape Town 28 June 2014"
+    -   # Defaults for each language
+        scope:
+            path: "a-fish-and-a-gift/en"
+        values:
+            book-title: ""  # Leave blank for English editions
+            language: "en" # Use ISO language codes, preferably two-letter
             isbn-print: ""
             isbn-epub: ""
             uuid: ""
+            translator: ""
+    -   
+        scope:
+            path: "a-fish-and-a-gift/zu"
+        values:
+            book-title: "Inhlanzi Nesipho"  # Leave blank for English editions
+            language: "zu"  # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            isbn-epub: ""
+            uuid: ""
+            translator: ""
