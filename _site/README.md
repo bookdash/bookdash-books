@@ -24,7 +24,7 @@ For technical background on how these files are organised, see the [Electric Boo
 
 Each book's `index.md` file contains all the text and links to images for the story.
 
-Thie file is written in markdown: a simple way to structure plain text, which a markdown processor can turn into web- and ebook-ready HTML automatically. You can [read more about markdown here](http://electricbookworks.github.io/electric-book-workflow/guide/03-markdown.html#markdown).
+This file is written in markdown: a simple way to structure plain text, which a markdown processor can turn into web- and ebook-ready HTML automatically. You can [read more about markdown here](http://electricbookworks.github.io/electric-book-workflow/guide/03-markdown.html#markdown).
 
 The best way to learn how to create a markdown `index.md` file for a book is to look at an existing one. [Here is the raw markdown for *Sleepy Mr Sloth*](https://raw.githubusercontent.com/bookdash/bookdash-books/gh-pages/sleepy-mr-sloth/en/index.md).
 
@@ -42,7 +42,7 @@ It's made of four components:
 3. A link to each image, including a short description of what's in the image:
 
 	~~~
-	![Mr Sloth is sleepy and yawning]({{ page.images-folder}}/01.jpg)
+	![Mr Sloth is sleepy and yawning]({{ page.images-folder }}/01.jpg)
 	~~~
 
 4.	The text of the story, as plain lines of text. The image always precedes the text that relates to it. (This is because in any book we, especially children, always take in the image before we read the text on a page.)
@@ -53,7 +53,7 @@ Each of these elements must be separated by an empty line.
 
 Each book's details are included in the main `_config.yml` file. 
 
-The config file is fairly easy to understand just be reading through it. Each book's details are set in three levels:
+The config file is fairly easy to understand just by reading through it. Each book's details are set in three levels:
 
 *	Info that relates to all books (e.g. the CSS stylesheets we use)
 	*	Info that relates to all editions of a book (e.g. the original team that created it)
