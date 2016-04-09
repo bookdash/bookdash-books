@@ -33,6 +33,64 @@ permalink: none
 sass:
     sass_dir: css/_sass
 
+# Exclude unnecessary or unfinished files and folders here (speeds up Jekyll, too)
+exclude: [
+a-beautiful-day,
+a-dancers-tale,
+a-house-for-mouse,
+a-fish-and-a-gift,
+a-tiny-seed,
+amazing-daisy,
+bathtub-safari,
+come-back-cat,
+gracas-dream,
+grandpas-gold,
+hippo-wants-to-dance,
+how-about-you,
+hugs-in-the-city,
+i-can-dress-myself,
+i-will-help-you,
+is-there-anyone-like-me,
+it-wasnt-me,
+karabos-question,
+katiitis-song,
+lara-the-yellow-ladybird,
+little-ants-big-plan,
+little-sock,
+londi-the-dreaming-girl,
+lory-dory,
+maddy-moona,
+miss-helens-magical-world,
+mrs-penguins-palace,
+queen-of-soweto,
+rafikis-style,
+sbus-special-shoes,
+searching-for-the-spirit-of-spring,
+shongololos-shoes,
+sima-and-siza,
+sindi-and-the-moon,
+sindiwe-and-the-fireflies,
+singing-the-truth,
+sizwes-smile,
+#sleepy-mr-sloth,
+springloaded,
+thatos-birthday-surprise,
+the-best-thing-ever,
+the-elephant-in-the-room,
+the-lion-who-wouldnt-try,
+there-must-be-a-rainbow,
+together-were-strong,
+tortoise-finds-his-home,
+walking-together,
+what-if,
+what-is-it,
+when-i-grow-up,
+who-is-our-friend,
+whose-button-is-this,
+why-is-nita-upside-down,
+zanele-situ-my-story,
+]
+
 # These are default YAML values that apply to multiple documents. (For technical details, see http://jekyllrb.com/docs/configuration/#front-matter-defaults).
 defaults: 
     -   # Defaults for all books
@@ -49,27 +107,7 @@ defaults:
             contents: "index.html"
             language: "en"
             images-folder: images
-    -   # Defaults for all editions of a book
-        scope:
-            path: "sleepy-mr-sloth"
-        values:
-            book-title-en: ""  # Title in English
-            illustrator: "Graham Paterson"
-            writer: "Paul Kennedy"
-            designer: "Nick Mulgrew"
-            book-title: "Sleepy Mr Sloth"
-            book-dash-day: "Cape Town 10 May 2014"
-            publication-date: "2014-05-10"
-    -   # Defaults for each language
-        scope:
-            path: "sleepy-mr-sloth/en"
-        values:
-            language: "en"
-            isbn-print: ""
-            isbn-epub: ""
-            uuid: ""
-            translator: ""
-    -   # Defaults for all editions of a book
+    -   # Defaults for all editions of a book ===========================================
         scope:
             path: "a-fish-and-a-gift"
         values:
@@ -78,23 +116,1032 @@ defaults:
             writer: "Liesl Jobson"
             designer: "Andy Thesen"
             book-dash-day: "Cape Town 28 June 2014"
-    -   # Defaults for each language
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "a-beautiful-day"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "a-beautiful-day/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "a-dancers-tale"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "a-dancers-tale/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for a language version -----------------------------------------------
         scope:
             path: "a-fish-and-a-gift/en"
         values:
-            book-title: ""  # Leave blank for English editions
+            book-title: "A Fish and a Gift"
+            language-label: "English"
             language: "en" # Use ISO language codes, preferably two-letter
-            isbn-print: ""
-            isbn-epub: ""
-            uuid: ""
+            isbn-print: "978-0-9922357-8-9"
+            uuid-epub: "9c9e6754-fe46-11e5-86aa-5e5517507c66"
             translator: ""
-    -   
+    -   # Defaults for a language version -----------------------------------------------
         scope:
             path: "a-fish-and-a-gift/zu"
         values:
-            book-title: "Inhlanzi Nesipho"  # Leave blank for English editions
-            language: "zu"  # Use ISO language codes, preferably two-letter
+            book-title: "Inhlanzi Nesipho"
+            language-label: "IsiZulu"
+            language: "zu" # Use ISO language codes, preferably two-letter
+            isbn-print: "978-0-9946520-4-1"
+            uuid-epub: "9c9edd60-fe46-11e5-86aa-5e5517507c66"
+            translator: "Nal'ibali"
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "a-house-for-mouse"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "a-house-for-mouse/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
             isbn-print: ""
-            isbn-epub: ""
-            uuid: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "a-tiny-seed"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "a-tiny-seed/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "amazing-daisy"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "amazing-daisy/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "bathtub-safari"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "bathtub-safari/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "come-back-cat"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "come-back-cat/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "gracas-dream"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "gracas-dream/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "grandpas-gold"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "grandpas-gold/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "hippo-wants-to-dance"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "hippo-wants-to-dance/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "how-about-you"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "how-about-you/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "hugs-in-the-city"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "hugs-in-the-city/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "i-can-dress-myself"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "i-can-dress-myself/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "i-will-help-you"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "i-will-help-you/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "is-there-anyone-like-me"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "is-there-anyone-like-me/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "it-wasnt-me"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "it-wasnt-me/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "karabos-question"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "karabos-question/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "katiitis-song"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "katiitis-song/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "lara-the-yellow-ladybird"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "lara-the-yellow-ladybird/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "little-ants-big-plan"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "little-ants-big-plan/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "little-sock"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "little-sock/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "londi-the-dreaming-girl"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "londi-the-dreaming-girl/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "lory-dory"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "lory-dory/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "maddy-moona"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "maddy-moona/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "miss-helens-magical-world"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "miss-helens-magical-world/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "mrs-penguins-palace"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "mrs-penguins-palace/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "queen-of-soweto"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "queen-of-soweto/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "rafikis-style"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "rafikis-style/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "sbus-special-shoes"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "sbus-special-shoes/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "searching-for-the-spirit-of-spring"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "searching-for-the-spirit-of-spring/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "shongololos-shoes"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "shongololos-shoes/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "sima-and-siza"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "sima-and-siza/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "sindi-and-the-moon"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "sindi-and-the-moon/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "sindiwe-and-the-fireflies"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "sindiwe-and-the-fireflies/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "singing-the-truth"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "singing-the-truth/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "sizwes-smile"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "sizwes-smile/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "sleepy-mr-sloth"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: "Graham Paterson"
+            writer: "Paul Kennedy"
+            designer: "Nick Mulgrew"
+            book-title: "Sleepy Mr Sloth"
+            book-dash-day: "Cape Town 10 May 2014"
+            publication-date: "2014-05-10"
+    -   # Defaults for each language version of that book -------------------------------
+        scope:
+            path: "sleepy-mr-sloth/en"
+        values:
+            book-title: "Sleepy Mr Sloth"
+            language-label: "English"
+            language: "en"
+            isbn-print: "978-0-9922357-0-3"
+            uuid-epub: "9c9e7cb2-fe46-11e5-86aa-5e5517507c66"
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "springloaded"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "springloaded/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "thatos-birthday-surprise"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "thatos-birthday-surprise/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "the-best-thing-ever"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "the-best-thing-ever/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "the-elephant-in-the-room"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "the-elephant-in-the-room/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "the-lion-who-wouldnt-try"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "the-lion-who-wouldnt-try/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "there-must-be-a-rainbow"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "there-must-be-a-rainbow/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "together-were-strong"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "together-were-strong/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "tortoise-finds-his-home"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "tortoise-finds-his-home/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "walking-together"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "walking-together/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "what-if"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "what-if/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "what-is-it"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "what-is-it/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "when-i-grow-up"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "when-i-grow-up/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "who-is-our-friend"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "who-is-our-friend/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "whose-button-is-this"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "whose-button-is-this/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "why-is-nita-upside-down"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "why-is-nita-upside-down/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
+            translator: ""
+    -   # Defaults for all editions of a book ===========================================
+        scope:
+            path: "zanele-situ-my-story"
+        values:
+            book-title-en: "" # Title in English
+            illustrator: ""
+            writer: ""
+            designer: ""
+            book-dash-day: ""
+    -   # Defaults for a language version -----------------------------------------------
+        scope:
+            path: "zanele-situ-my-story/en"
+        values:
+            book-title: ""
+            language-label: "English"
+            language: "en" # Use ISO language codes, preferably two-letter
+            isbn-print: ""
+            uuid-epub: ""
             translator: ""
