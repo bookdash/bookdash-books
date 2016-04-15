@@ -4,13 +4,13 @@ title: Sleepy Mr Sloth
 
 # Sleepy Mr Sloth
 
-![Mr Sloth is sleepy and yawning]({{ page.images-folder }}/01.jpg)
+![Mr Sloth is sleepy and yawning.]({{ page.images-folder }}/01.jpg)
 
 One day, Mr Sloth came to visit. He said:
 
 I’m sleepy! I need a good branch for a bed!
 
-![Mr Sloth starts climbing the tree]({{ page.images-folder }}/02.jpg)
+![Mr Sloth starts climbing the tree.]({{ page.images-folder }}/02.jpg)
 
 I’m quite good at climbing. I know how to swing.  
 
