@@ -21,7 +21,7 @@ prose:
     - /*/_site
     - /*/css
     - /*/*/0-0-cover.md
-    - /*/*/index.md
+#    - /*/*/index.md
   media: "media"
   metadata:
     "":
