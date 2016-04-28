@@ -8,7 +8,7 @@ style: chapter
 
 # Title
 
-![]({{ page.images-folder }}/01.jpg)
+![Hippo stamps her big feet on the ground. Dust clouds appear.]({{ page.images-folder }}/01.jpg)
 
 Hippo wants to dance.
 
@@ -16,26 +16,26 @@ She jumps up and down on the dusty ground.
 
 THUMP! THUMP!
 
-![]({{ page.images-folder }}/02.jpg)
+![Shongololo is curled up at Hippo's feet. He shakes his finger disapprovingly.]({{ page.images-folder }}/02.jpg)
 
 “You’re getting dirt on me!” says Shongololo, sleeping in the sand.
 
 “Go dance somewhere else.”
 
-![]({{ page.images-folder }}/03.jpg)
+![Hippo splashes in the river among the bulrushes.]({{ page.images-folder }}/03.jpg)
 
 Hippo wants to dance.She rolls into the river and splashes her arms and legs.
 
 SPLISH! SPLASH!
 
-![]({{ page.images-folder }}/04.jpg)
+![Kingfisher perches on a branch and shakes water off her feathers.]({{ page.images-folder }}/04.jpg)
 
 “You’re making me wet!” says Kingfisher, hunting for her breakfast. 
 
 “Go dance somewhere else.”
 
 
-![]({{ page.images-folder }}/05.jpg)
+![Hippo stands on the ground and kicks her fat legs in the air.]({{ page.images-folder }}/05.jpg)
 
 Hippo wants to dance. 
 
@@ -43,13 +43,13 @@ She twirls around and around in a field, kicking her legs up high.
 
 SWOOSH! SWOOSH!
 
-![]({{ page.images-folder }}/06.jpg)
+![Three Meerkat babies are enjoying a bubble bath. Meerkat, with his nose in the air, stands in front of them and waves Hippo away.]({{ page.images-folder }}/06.jpg)
 
 “Be careful! You nearly kicked me!” says Meerkat, bathing his babies. 
 
 “Go dance somewhere else.”
 
-![]({{ page.images-folder }}/07.jpg)
+![Hippo happily flops down in a puddle of mud.]({{ page.images-folder }}/07.jpg)
 
 Hippo wants to dance.
 
@@ -57,17 +57,17 @@ She flops into a puddle of mud and slides around on her nice big belly.
 
 SQUISH! SQUASH!
 
-![]({{ page.images-folder }}/08.jpg)
+![Donkey is carrying buckets of water on his back. They are wobbling and splashing everywhere.]({{ page.images-folder }}/08.jpg)
 
 “Why don’t you stop dancing?” asks Donkey, carrying his buckets. 
 
 “Why can’t you do something useful instead?”
 
-![]({{ page.images-folder }}/09.jpg)
+![Hippo sits down dejectedly. Grasshopper stands nearby.]({{ page.images-folder }}/09.jpg)
 
 Hippo is sad. She is too sad to dance.She sits on a rock and cries. The tears roll down her cheeks and fall on the ground.
 
-![]({{ page.images-folder }}/10.jpg)
+![As Hippo's tears fall, Grasshopper dances.]({{ page.images-folder }}/10.jpg)
 
 HOP! HOP!
 
@@ -77,8 +77,8 @@ He starts dancing around her feet.
 
 PLOP! PLOP!
 
-![]({{ page.images-folder }}/11.jpg)
+![Hippo and Grasshopper dance together. Hippo is happy again.]({{ page.images-folder }}/11.jpg)
 
 Hippo and Grasshopper start to dance, and the other animals come to look ...
 
-![]({{ page.images-folder }}/12.jpg)
+![All the animals dance together.]({{ page.images-folder }}/12.jpg)
