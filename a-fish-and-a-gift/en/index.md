@@ -79,7 +79,7 @@ Yusuf’s father and uncle and cousins heave and pull. A little shark has been c
 
 When the shark at last is free it streaks back into the waves, leaving only one fat yellowtail in the net. Ouma Safiya will be pleased.
 
-![Papa gift to Yusuf is a shark's tooth.](images/12.jpg)
+![Papa's gift to Yusuf is a shark's tooth.](images/12.jpg)
 
 The men pull the boat in and coil up the cables. A hard white triangle catches Papa’s finger. 
 
