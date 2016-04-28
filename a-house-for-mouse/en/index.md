@@ -8,56 +8,54 @@ style: chapter
 
 # A House for Mouse
 
-![]({{ page.images-folder }}/01.jpg)
+![Mouse looks at a yellow house in the distance.]({{ page.images-folder }}/01.jpg)
 
 Mouse was looking for a new house.
 
-![]({{ page.images-folder }}/02.jpg)
+![The front door is ajar. Mouse looks inside.]({{ page.images-folder }}/02.jpg)
 
 This looks like a nice house.
 
-![]({{ page.images-folder }}/03.jpg)
+![A black puppy with a long tongue invites Mouse to join him. ]({{ page.images-folder }}/03.jpg)
 
 “You can come and sleep with me,” said Puppy.
 
 “Thank you,” said Mouse.
 
-![]({{ page.images-folder }}/04.jpg)
+![Mouse sleeps in a pool of mud.]({{ page.images-folder }}/04.jpg)
 
 That night, Mouse’s dreams were bouncy and muddy.
 
-![]({{ page.images-folder }}/05.jpg)
+![A colourful parrot on a perch invites Mouse to join him.]({{ page.images-folder }}/05.jpg)
 
 “You can come and sleep with me,” said Parrot.
 
 “Thank you,” said Mouse.
 
-![]({{ page.images-folder }}/06.jpg)
+![Mouse sleeps in a wild forest.]({{ page.images-folder }}/06.jpg)
 
 That night, Mouse’s dreams were noisy and wild.
 
-![]({{ page.images-folder }}/07.jpg)
+![A goldfish swimming in a tank invites Mouse to join him.]({{ page.images-folder }}/07.jpg)
 
 “You can come and sleep with me,” said Fish.
 
 “Thank you,” said Mouse.
 
-![]({{ page.images-folder }}/08.jpg)
+![Mouse sleeps underwater surrounded by fish and seaweed.]({{ page.images-folder }}/08.jpg)
 
 That night, Mouse’s dreams were cold and wet.
 
-![]({{ page.images-folder }}/09.jpg)
+![Mouse dashes past the skirting boards.]({{ page.images-folder }}/09.jpg)
 
 Mouse needed somewhere warm and dry.
 
-![]({{ page.images-folder }}/10.jpg)
+![Mouse perches on a couch in front of the fireplace.]({{ page.images-folder }}/10.jpg)
 
-
-
-![]({{ page.images-folder }}/11.jpg)
+![A beautiful bookshelf.]({{ page.images-folder }}/11.jpg)
 
 Mouse found a bookshelf nearby.
 
-![]({{ page.images-folder }}/12.jpg)
+![Mouse sleeps peacefully.]({{ page.images-folder }}/12.jpg)
 
-That night, Mouse had warm and cosy dreams. 
+That night, Mouse had warm and cosy dreams.
