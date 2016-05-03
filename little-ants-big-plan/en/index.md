@@ -8,31 +8,31 @@ style: chapter
 
 # Little Ant's Big Plan
 
-![]({{ page.images-folder }}/01.jpg)
+![Little Ant wears glasses and sits on top of a book. The other ants speak to him while holding items of food.]({{ page.images-folder }}/01.jpg)
 
 Little Ant loved to read. Little Ant was often teased.
 
 “Ants don’t read. Ants must feed. Ants collect the food they need.”
 
-![]({{ page.images-folder }}/02.jpg)
+![A boy lies on a picnic blanket reading a book, while the ants carry away his picnic food.]({{ page.images-folder }}/02.jpg)
 
 Little Ant would read all day, he’d read and read the day away. 
 
 The other ants took what they found to store for winter underground.
 
-![]({{ page.images-folder }}/03.jpg)
+![Inside his ant heap, Little Ant's Mum and Dad scold Little Ant about reading books all the time. His little sister watches with interest.]({{ page.images-folder }}/03.jpg)
 
 His mum and dad got really mad, and Little Ant felt really bad.
 
-![]({{ page.images-folder }}/04.jpg)
+![The trees are bare and autum leaves are all around. The ants look under the leaves and collect a discarded apple core. ]({{ page.images-folder }}/04.jpg)
 
 In autumn when the leaves fall down, the ants must keep food underground.
 
-![]({{ page.images-folder }}/05.jpg)
+![The Queen stands in front of her ant subjects and speaks to them.]({{ page.images-folder }}/05.jpg)
 
 The Queen wants food to fill the store, so all the ants must work some more.
 
-![]({{ page.images-folder }}/06.jpg)
+![Little Ant's thought bubble shows a hamburger and a restaurant table.]({{ page.images-folder }}/06.jpg)
 
 Little Ant begins to shout about a place he read about.
 
@@ -40,31 +40,31 @@ Little Ant begins to shout about a place he read about.
 
 It says so in the books I read.”
 
-![]({{ page.images-folder }}/07.jpg)
+![The ants march through the day and into the night.]({{ page.images-folder }}/07.jpg)
 
 The ants go marching one by one. 
 
 They march into the setting sun.
 
-![]({{ page.images-folder }}/08.jpg)
+![Little Ant reaches a burger restaurant with tables inside and out.]({{ page.images-folder }}/08.jpg)
 
 And Little Ant said “Hey, there’s one!”
 
-![]({{ page.images-folder }}/09.jpg)
+![The ants carry hot dogs, burgers and chicken drumsticks through the day and into the night.]({{ page.images-folder }}/09.jpg)
 
 The ants go marching one by one, carrying a burger, carrying a bun.
 
-![]({{ page.images-folder }}/10.jpg)
+![The Queen shakes Little Ant's hand. The rest of the ants cheer.]({{ page.images-folder }}/10.jpg)
 
 When they return the Queen is glad.
 
 The stores are full. They cheer like mad.
 
-![]({{ page.images-folder }}/11.jpg)
+![Inside his ant heap, Little Ant's Mum and Dad hug Little Ant. His little sister beams happily.]({{ page.images-folder }}/11.jpg)
 
 Ant gets hugs from mum and dad.
 
-![]({{ page.images-folder }}/12.jpg)
+![Little Ant and his little sister stand and hold hands on top of the boy's shoulder. The boy is reading a  book.]({{ page.images-folder }}/12.jpg)
 
 His baby sister takes his hand “Now I think I understand.”
 
