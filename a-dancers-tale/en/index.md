@@ -12,7 +12,7 @@ style: chapter
 
 Once upon a time, not so far away, a baby called Phyllis was born for ballet.
 
-Two people in love, her Mom and her Dad,could not have known yet what a dancer they had.
+Two people in love, her Mom and her Dad, could not have known yet what a dancer they had.
 
 ![Little Phyllis dances with two other young girls for their strict ballet teacher.]({{ page.images-folder }}/02.jpg)
 
@@ -38,15 +38,15 @@ From Mexico to Canada, the US to France, everyone asked her to visit and dance.
 
 With the Royal Ballet, and all of her friends, she spread love for dancing so it never would end.
 
-![Phyllis holds a South African flag in her arms. She wears a African-inspired dress and Table Mountain can be seen in the background.]({{ page.images-folder }}/06.jpg)
+![Phyllis holds a South African flag in her arms. She wears an African-inspired dress and Table Mountain can be seen in the background.]({{ page.images-folder }}/06.jpg)
 
 Still, Phyllis missed home, they’d been too long apart. She longed to return and to make a fresh start.
 
-So she leaped and she bounded to her beautiful land,to walk once again on South African sand.
+So she leaped and she bounded to her beautiful land, to walk once again on South African sand.
 
 ![Phyllis dances with a clock as the backdrop.]({{ page.images-folder }}/07.jpg)
 
-Dance isn’t just fun, as Phyllis well knew: she worked day and night,and with hard work she grew.
+Dance isn’t just fun, as Phyllis well knew: she worked day and night, and with hard work she grew.
 
 Always smiling and tireless, through good times and tough,she aimed for her best.‘Good’ was never enough.
 
@@ -54,7 +54,7 @@ Always smiling and tireless, through good times and tough,she aimed for her best
 
 Romeo and Juliet, Swan Lake and Giselle. She captured each audience under her spell.
 
-With Gary Burne beside her, Eduard Greyling too,her dancing was magic in every review.
+With Gary Burne beside her, Eduard Greyling too, her dancing was magic in every review.
 
 ![With roses at her feet and a ribbon announcing her new title, Phyllis squeezes her hands with gratitude.]({{ page.images-folder }}/09.jpg)
 
@@ -74,7 +74,7 @@ In love, they soon married, and together they’d dance. No match could be bette
 
 They didn’t have children but never were sad, for they had a way to help all moms and dads. 
 
-Their school, Dance For All, would give children a chance,from all walks of life,to learn and love dance.
+Their school, Dance For All, would give children a chance, from all walks of life, to learn and love dance.
 
 ![Phyllis looks out at the reader, while five other ballerinas dance on the page all around her.]({{ page.images-folder }}/12.jpg)
 
