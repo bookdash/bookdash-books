@@ -8,56 +8,56 @@ style: chapter
 
 # Rafiki’s Style
 
-![]({{ page.images-folder }}/01.jpg)
+![Rafiki watches the soccer match on TV with his aunt and uncle. On TV the soccer player wears a red and yellow soccer shirt and his hair is stripey like a zebra.]({{ page.images-folder }}/01.jpg)
 
 On Sunday, Jimmy Zogba scored the winning goal. 
 
-![]({{ page.images-folder }}/02.jpg)
+![Rafiki holds a soccer ball and wears his usual white shirt. Opposite him, three boys wear red and yellow soccer shirts and zebra hairstyles.]({{ page.images-folder }}/02.jpg)
 
 On Monday, the Cool Cat Crew strutted by.
 
-![]({{ page.images-folder }}/03.jpg)
+![One of the Cool Cat Crew points to his zebra hair. Rafiki looks glum.]({{ page.images-folder }}/03.jpg)
 
 “Hey, Rafiki, where’s your zebra hair? Your hair’s so plain, like you don’t care.”
 
-![]({{ page.images-folder }}/04.jpg)
+![Another member of the Cool Cat Crew shows Rafiki the fake tatoo of a soccer ball on his arm.]({{ page.images-folder }}/04.jpg)
 
 “Hey, Rafiki, where’s your fake tattoo? Your skin’s so boring. You are too.”
 
-![]({{ page.images-folder }}/05.jpg)
+![The third member of the gang points to his gold teeth. Rafiki touches his own teeth.]({{ page.images-folder }}/05.jpg)
 
 “Hey, Rafiki, where’s your bling? Your teeth are wonky, that’s the thing.”
 
-![]({{ page.images-folder }}/06.jpg)
+![Rafiki walks on the pavement, head hung low.]({{ page.images-folder }}/06.jpg)
 
 That day, Rafiki walked home slowly.
 
-![]({{ page.images-folder }}/07.jpg)
+![Rafiki's aunt prepares to cut his hair.]({{ page.images-folder }}/07.jpg)
 
 “Auntie, can I have zebra hair?”
 
 “I can’t cut you zebra hair. Actually, I wouldn’t dare.”
 
-![]({{ page.images-folder }}/08.jpg)
+![Rafiki asks his sister who is drawing at a desk to draw him a tattoo.]({{ page.images-folder }}/08.jpg)
 
 “My skin’s so boring, Sisi. Can you make a fake tattoo?”
 
 “You don’t need one to look like you.”
 
-![]({{ page.images-folder }}/09.jpg)
+![Rafiki talks to his uncle while his uncle fixes a car.]({{ page.images-folder }}/09.jpg)
 
 “Mkhulu, I wish I had some bling.”“Bling, my child, don’t mean a thing.”
 
-![]({{ page.images-folder }}/10.jpg)
+![Rafiki watches the soccer match on TV with his aunt and uncle. On TV the soccer player wears a white shirt and his hair is shaved like Rafiki's.]({{ page.images-folder }}/10.jpg)
 
 The next weekend, Santi Ramires scored the winning goal.
 
-![]({{ page.images-folder }}/11.jpg)
+![Rafiki holds a soccer ball and wears his usual white shirt. Opposite him, the boys wear white soccer shirts. Their hair is now shaved.]({{ page.images-folder }}/11.jpg)
 
 On Monday, the Cool Cat Crew strutted by.
 
 “Hey, Rafiki! Looking fine!”
 
-![]({{ page.images-folder }}/12.jpg)
+![Rafiki stands with his aunt and uncle and sister. He shrugs.]({{ page.images-folder }}/12.jpg)
 
 Rafiki shrugged. “I look like me; this style is mine.”
