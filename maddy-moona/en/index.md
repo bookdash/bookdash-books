@@ -8,7 +8,7 @@ style: chapter
 
 # Maddy Moona’s Menagerie!
 
-![]({{ page.images-folder }}/01.jpg)
+![Maddy Moona is dressed in black and white and wears a party hat. There are balloons and birthday bunting in the background.]({{ page.images-folder }}/01.jpg)
 
 My name is Maddy Moona, and today I’m turning five. 
 
@@ -18,7 +18,7 @@ We’ll travel across the whole wide world, searching Mali through Tibet, until 
 
 Oh, I know just what I’ll get!
 
-![]({{ page.images-folder }}/02.jpg)
+![Maddy rides on the back of an elephant. Her party hat lifts off her head with the force of the elephant's sneeze.]({{ page.images-folder }}/02.jpg)
 
 I’m going to get an elephant. I’ll ride on it to school.
 
@@ -28,7 +28,7 @@ But... what if Ellie caught a cold? I guess she’d sneeze.... A LOT!
 
 There is no tissue big enough to wipe up all that snot.
 
-![]({{ page.images-folder }}/03.jpg)
+![A giant crocodile lies in the bath and Maddy helps him floss his teeth.]({{ page.images-folder }}/03.jpg)
 
 I want a Nile crocodile sent to me by the pharaohs. 
 
@@ -38,7 +38,7 @@ I’ll keep him in the bathtub and brush his pearly whites,
 
 But... what if flossing all those teeth takes me all day and night?
 
-![]({{ page.images-folder }}/04.jpg)
+![Maddy stands against the wall of a sweet shop as two porcupines wearing balaclavas shoot quills at her.]({{ page.images-folder }}/04.jpg)
 
 Perhaps a pair of porcupines, for games of robbers and cops.
 
@@ -48,7 +48,7 @@ I can munch away on candy bars while my gang sharpen their spines.
 
 But... what if my sharp-shooting pals put me in the firing line?
 
-![]({{ page.images-folder }}/05.jpg)
+![In the sweet shop, Maddy stands in the foreground holding her nose. In the background a skunk lets off nasty smells.]({{ page.images-folder }}/05.jpg)
 
 Maybe I need a stealthier plan. Let’s clear out the store with funk!
 
@@ -58,7 +58,7 @@ But... what if I can’t go into the shop after Skunky has let off his stink?
 
 Sweets are no good for my teeth anyway. A rotten idea! I need to rethink!
 
-![]({{ page.images-folder }}/06.jpg)
+![Maddy rides on a rhino's neck. It blows steam out of its nose and chases her baby brother, Billy.]({{ page.images-folder }}/06.jpg)
 
 A rhino! The horns, the big stomping feet, the armour on both of its flanks!
 
@@ -68,7 +68,7 @@ But... what if Billy raises his temper and Rhino goes on the rampage?
 
 Crash bang boom! The teacups! The plates! Now I’m grounded ‘til I’m gran’s age.
 
-![]({{ page.images-folder }}/07.jpg)
+![Maddy holds a piece of steak out to a lion curled up on the ground. Billy's dummy hangs from its mouth.]({{ page.images-folder }}/07.jpg)
 
 I need a beast to tame my brother. With teeth, sharp claws and a roar.
 
@@ -78,7 +78,7 @@ But... a lion has a huge appetite. Skinny Billy won’t satisfy.
 
 And once Brutus has a taste for us Moonas, he’ll see me as Maddy stir-fry.
 
-![]({{ page.images-folder }}/08.jpg)
+![A python wraps itself tightly around Maddy's whole body and blows kisses. ]({{ page.images-folder }}/08.jpg)
 
 Dad thinks I should choose a cuddlier pet. My parents are so hard to please.
 
@@ -90,7 +90,7 @@ But... if Snakey develops too much of a crush, he’ll suffocate me with affecti
 
 To be honest, I just can’t marry a snake! And reptiles can’t handle rejection.
 
-![]({{ page.images-folder }}/09.jpg)
+![Maddy sits on a chair with a giraffe. The ceiling of the room is lifting off above the giraffe's curled neck.]({{ page.images-folder }}/09.jpg)
 
 No, reptiles aren’t the way to go. I definitely need something taller.
 
@@ -100,13 +100,13 @@ But... something more than eight foot tall is no good. Our house has a rather lo
 
 I’d spend hours massaging cricks out her neck. My fingers would lose all their feeling.
 
-![]({{ page.images-folder }}/10.jpg)
+![Maddy stands alone. She shrugs. ]({{ page.images-folder }}/10.jpg)
 
 None of these are the perfect pet! 
 
 Oh what, oh what will I get?
 
-![]({{ page.images-folder }}/11.jpg)
+![Maddy sits on the ground. A black and white puppy plays next to her with a red ball.]({{ page.images-folder }}/11.jpg)
 
 Those animals just don’t work. None are my perfect partner in crime.
 
@@ -114,7 +114,7 @@ I want something with fur, a pet who will follow.
 
 Oh wait! I know — a canine!
 
-![]({{ page.images-folder }}/12.jpg)
+![Maddy lifts the puppy in a happy hug.]({{ page.images-folder }}/12.jpg)
 
 My Bandit is the biggest bark on the block! He’s the fastest pup in the west!
 
