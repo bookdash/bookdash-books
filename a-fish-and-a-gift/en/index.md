@@ -23,7 +23,7 @@ Papa rings his bell. “Wait and see what it will be!”
 
 ![Papa waves to the fishermen, who prepare to go to sea.](images/3.jpg)
 
-The fishermen watch the sun rise. They check their nets. They check their oars. They listen to the wind. They drag their boats down to the water. Yusuf ’s grandfather, Oupa Salie was a treknet fisherman. Before him his father, Oupagrootjie Ridwaan, knew the sea too.
+The fishermen watch the sun rise. They check their nets. They check their oars. They listen to the wind. They drag their boats down to the water. Yusuf’s grandfather, Oupa Salie was a treknet fisherman. Before him his father, Oupagrootjie Ridwaan, knew the sea too.
 
 
 ![Papa heads out to sea with the other fishermen.](images/4.jpg)
@@ -38,7 +38,7 @@ All day long Yusuf looks at the sky. It is bright and clear and windless. A fish
 
 ![Papa stands on the beach with the turtles.](images/6.jpg)
 
-Some days Yusuf ’s father brings a story. Like the time they found sea turtles on the sand, hundreds washed up in a storm. 
+Some days Yusuf’s father brings a story. Like the time they found sea turtles on the sand, hundreds washed up in a storm. 
 
 “Whaaat? Whaaat? Whaaat?” cried the gulls. “What will you do to help the turtles?” 
 
@@ -64,13 +64,13 @@ Last year the fishermen fought with the surfers. Angry fists and shouting words.
 
 “Whaaat? Whaaat? Whaaat?” cried the gulls. 
 
-“There’s enough sea for everybody,” said Yusuf ’s father. He showed them the fishing licence that had been Oupa Salie’s. “Waves for all. Water for free.”
+“There’s enough sea for everybody,” said Yusuf’s father. He showed them the fishing licence that had been Oupa Salie’s. “Waves for all. Water for free.”
 
 ![Ouma Safiya and Yusuf wait for Papa on the beach. Ouma Safiya looks through her binoculars.](images/10.jpg)
 
 Ouma Safiya watches through her binoculars, her fingers curled in curiosity. The shark siren sounds. Swimmers run back to the sand and grab their towels. Surfers rush to the shore, carrying their boards under their arms. Under the showers they strip off their wetsuits. 
 
-“Whaaat? Whaaat? Whaaat?” cry the gulls. “What will Yusuf ’s father bring from the ocean?”
+“Whaaat? Whaaat? Whaaat?” cry the gulls. “What will Yusuf’s father bring from the ocean?”
 
 
 ![Papa finds a shark in the net.](images/11.jpg)
