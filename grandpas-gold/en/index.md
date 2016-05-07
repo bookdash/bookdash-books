@@ -18,7 +18,7 @@ My Grandpa can build a tower to the sky, said Giraffe.
 
 Once he built a skyscraper for a king.
 
-![Grandpa Cheetah, fishing rod in hand, stands next to the whale in the bath.]({{ page.images-folder }}/03.jpg)
+![Grandpa Cheetah holds a fishing rod. He stands next to a whale in a bath.]({{ page.images-folder }}/03.jpg)
 
 My Grandpa can fish for anything in the sea, said Cheetah. 
 
@@ -30,7 +30,7 @@ My Grandpa can climb to the clouds in the sky, said Mountain Goat.
 
 He climbed the tallest mountain in the world, in just four hours.
 
-![Grandpa Elephant wears a chef's cap and effortlessly holds a plate of jelly, a whisk, a tea towel and a tower of cakes. Colourful balloons float all around him.]({{ page.images-folder }}/05.jpg)
+![Grandpa Elephant wears a chef's cap. He holds a plate of jelly, a whisk, a tea towel and a tower of cakes. Colourful balloons float all around him.]({{ page.images-folder }}/05.jpg)
 
 My Grandpa can cook a feast, said Elephant.
 
