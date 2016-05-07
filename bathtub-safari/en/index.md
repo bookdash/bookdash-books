@@ -8,14 +8,14 @@ style: chapter
 
 # Bathtub Safari
 
-![Jack's mother puts her head around the door while Jack relaxes in his bath.]({{ page.images-folder }}/01.jpg)
+![Jack's mother pokes her head around the bathroom door. Jack relaxes in his bath.]({{ page.images-folder }}/01.jpg)
 
 Bathtime is Jack’s favourite part of the day.
 
 ‘I’ll be back in a few moments,’ says his mom. ‘Make sure to clean behind your ears.’
 
 
-![Jack sees something green and spikey move on the water.]({{ page.images-folder }}/02.jpg)
+![Jack sees something green and spiky move on the water.]({{ page.images-folder }}/02.jpg)
 
 There’s a SWOOSH. And a swish of a tail. 
 
@@ -62,7 +62,7 @@ There’s a SPLOSH. Something bubbles.
 
 It’s time to...
 
-![Jack reclines on the hippo's back and soaks up the sun. From there he sees something orange.]({{ page.images-folder }}/09.jpg)
+![Jack sunbathes on the hippo's back. From there he sees something orange.]({{ page.images-folder }}/09.jpg)
 
 AAAAAAH
 
@@ -72,7 +72,7 @@ But something’s lurking in the background...
 
 ROAR
 
-![Jack's mother appears. Jack lies alone in the bath.]({{ page.images-folder }}/11.jpg)
+![Jack's mother is at the bathroom door. Jack lies alone in the bath.]({{ page.images-folder }}/11.jpg)
 
 ‘Time to get out. I hope you’re clean and ready for bed.’
 
