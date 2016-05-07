@@ -12,11 +12,11 @@ style: chapter
 
 Graça was about to be born in a small village in Mozambique. The country was poor and the people did not yet rule themselves. Children didn’t have good schools and many couldn’t read. Graça’s mother dreamed of giving her children better opportunities. But without education there was little hope.
 
-![Graça's pregnant mother and five siblings stand and cry by their father's sickbed. Their father lies in bed dreaming of his children reading.]({{ page.images-folder }}/02.jpg)
+![Graça's pregnant mother and five siblings stand and cry by their father's sickbed. Their father dreams of his children reading.]({{ page.images-folder }}/02.jpg)
 
 Baby Graça would be the sixth child. But with this joyous event there was great sadness. Their beloved father was dying. He dreamed that his youngest daughter would go to a good school. He knew that education would give her opportunities he never had. His family promised to make their dad’s dream come true.
 
-![Little Graça sits on her mother's lap listening to her read a story. ]({{ page.images-folder }}/03.jpg)
+![Little Graça sits on her mother's. Her mother reads a story. ]({{ page.images-folder }}/03.jpg)
 
 Just weeks after their dad died, the new baby was born. She was given a name to match the beauty and blessing that she was – Graça.  As the years passed, Graça brought much joy to her family and they kept the promise made to their father. Graça would have a good education.
 
@@ -55,7 +55,7 @@ Graça and Samora had two children. They shared a dream to create good lives for
 
 Then one terrible day, Samora died in an aeroplane crash. 
 
-![An older Graça and Nelson Mandela stand in the field with group of happy children.]({{ page.images-folder }}/11.jpg)
+![An older Graça and Nelson Mandela stand in the field with a group of happy children.]({{ page.images-folder }}/11.jpg)
 
 Graça mourned Samora for many years, but she found love again. She met a man who had also spent his life dreaming of bringing freedom, hope and education to his people. 
 
