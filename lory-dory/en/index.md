@@ -14,7 +14,7 @@ One night Grandpa was tucking me in.
 
 His hands were soft and his hair was thin.
 
-![Grandpa talks to his granddaughter.]({{ page.images-folder }}/02.jpg)
+![Grandpa talks to the girl.]({{ page.images-folder }}/02.jpg)
 
 ‘I’m going to tell you a special story, about a girl named Lory Dory.’
 
