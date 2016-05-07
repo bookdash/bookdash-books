@@ -8,11 +8,11 @@ style: chapter
 
 # Rafiki’s Style
 
-![Rafiki watches the soccer match on TV with his aunt and uncle. On TV the soccer player wears a red and yellow soccer shirt and his hair is stripey like a zebra.]({{ page.images-folder }}/01.jpg)
+![Rafiki watches soccer on TV with his aunt and uncle. The soccer player wears a red and yellow soccer shirt. His hair is stripey like a zebra.]({{ page.images-folder }}/01.jpg)
 
 On Sunday, Jimmy Zogba scored the winning goal. 
 
-![Rafiki holds a soccer ball and wears his usual white shirt. Opposite him, three boys wear red and yellow soccer shirts and zebra hairstyles.]({{ page.images-folder }}/02.jpg)
+![Rafiki wears his usual white shirt. The Cool Cat Crew wear red and yellow soccer shirts and zebra hairstyles.]({{ page.images-folder }}/02.jpg)
 
 On Monday, the Cool Cat Crew strutted by.
 
@@ -38,7 +38,7 @@ That day, Rafiki walked home slowly.
 
 “I can’t cut you zebra hair. Actually, I wouldn’t dare.”
 
-![Rafiki asks his sister who is drawing at a desk to draw him a tattoo.]({{ page.images-folder }}/08.jpg)
+![Rafiki's sister sits and draws. Rafiki asks her to draw him a tattoo.]({{ page.images-folder }}/08.jpg)
 
 “My skin’s so boring, Sisi. Can you make a fake tattoo?”
 
@@ -48,11 +48,11 @@ That day, Rafiki walked home slowly.
 
 “Mkhulu, I wish I had some bling.”“Bling, my child, don’t mean a thing.”
 
-![Rafiki watches the soccer match on TV with his aunt and uncle. On TV the soccer player wears a white shirt and his hair is shaved like Rafiki's.]({{ page.images-folder }}/10.jpg)
+![Rafiki watches soccer on TV with his aunt and uncle. The soccer player wears a white shirt and his hair is shaved like Rafiki's.]({{ page.images-folder }}/10.jpg)
 
 The next weekend, Santi Ramires scored the winning goal.
 
-![Rafiki holds a soccer ball and wears his usual white shirt. Opposite him, the boys wear white soccer shirts. Their hair is now shaved.]({{ page.images-folder }}/11.jpg)
+![Rafiki wears his usual white shirt. The Cool Cat Crew wear white soccer shirts. Their hair is now shaved.]({{ page.images-folder }}/11.jpg)
 
 On Monday, the Cool Cat Crew strutted by.
 
