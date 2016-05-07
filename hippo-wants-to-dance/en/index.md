@@ -59,7 +59,7 @@ She flops into a puddle of mud and slides around on her nice big belly.
 
 SQUISH! SQUASH!
 
-![Donkey is carrying buckets of water on his back. They are wobbling and splashing everywhere.]({{ page.images-folder }}/08.jpg)
+![Donkey carries buckets of water on his back. They wobble and splash everywhere.]({{ page.images-folder }}/08.jpg)
 
 “Why don’t you stop dancing?” asks Donkey, carrying his buckets. 
 
