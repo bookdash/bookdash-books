@@ -22,7 +22,7 @@ One afternoon, Gogo came outside, looking tired.
 
 “Londi, stop dreaming!” she said. “It’s time to go and fetch the water.”
 
-![Londi's feet]({{ page.images-folder }}/04.jpg)
+![Londi's feet are on the grass.]({{ page.images-folder }}/04.jpg)
 
 Londi stood up and smiled at her feet.
 
