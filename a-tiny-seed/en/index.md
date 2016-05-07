@@ -18,7 +18,7 @@ In a village on the slopes of Mount Kenya in East Africa, a little girl worked i
 Wangari loved being outside. In her family’s food garden she broke up the soil with her machete. She pressed tiny seeds into the warm earth. 
 
 
-![In the twilight, Wangari carries her vegetables back home.]({{ page.images-folder }}/03.jpg)
+![It is twilight. Wangari carries her vegetables home.]({{ page.images-folder }}/03.jpg)
 
 Her favourite time of day was just after sunset. When it got too dark to see the plants, Wangari knew it was time to go home.
 
