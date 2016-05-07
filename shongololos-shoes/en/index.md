@@ -26,17 +26,17 @@ No shoes here.
 
 Go ask Giraffe.
 
-![Giraffe is cycling on a bright pink bicycle. He is using one of Shongololo's shoes as a helmet.]({{ page.images-folder }}/04.jpg)
+![Giraffe rides a bright pink bicycle. He uses one of Shongololo's shoes as a helmet.]({{ page.images-folder }}/04.jpg)
 
 I’m in a hurry – go ask Frog.
 
-![Frog is floating down the river in one of Shongololo's shoes.]({{ page.images-folder }}/05.jpg)
+![Frog floats down the river in one of Shongololo's shoes.]({{ page.images-folder }}/05.jpg)
 
 Shoes? How many?
 
 Go ask Flamingo.
 
-![Flamingo is dancing in a puddle. She is wearing two of Shongololo's shoes as earrings.]({{ page.images-folder }}/06.jpg)
+![Flamingo dances in a puddle. She wears two of Shongololo's shoes as earrings.]({{ page.images-folder }}/06.jpg)
 
 Seen your shoes?
 
@@ -50,18 +50,18 @@ Will I ever find my shoes?
 
 Shoes, eh? You should ask the Monkeys
 
-![The monkeys are in the tree playing tin can telephone with two of Shongololo' shoes.]({{ page.images-folder }}/09.jpg)
+![The monkeys are in the tree playing tin can telephone with two of Shongololo's shoes.]({{ page.images-folder }}/09.jpg)
 
 We’re busy. Go ask Owl, she knows everything!
 
 Hello hello?
 
-![Owl sits on a branch and reads a book. A yellow gumboot filled with pens and pencils sits on the branch beside her.]({{ page.images-folder }}/10.jpg)
+![Owl sits on a branch and reads a book. There is a yellow gumboot filled with pens and pencils next to her.]({{ page.images-folder }}/10.jpg)
 
 Hmm. I have an idea. Why don’t you ask Lion?
 
-![Lion is preening himself in front of the mirror. His mane is arranged in tight curls held in place by nine of Shongololo's gumboots.]({{ page.images-folder }}/11.jpg) 
+![Lion preens himself in front of the mirror. His mane is arranged in tight curls held in place by nine of Shongololo's gumboots.]({{ page.images-folder }}/11.jpg) 
 
 These are yours? I’ll give them all back if you come to my party!
 
-![All of the animals enjoy a party under the stars. Shongololo is finally wearing all of his shoes.]({{ page.images-folder }}/12.jpg)
+![All of the animals enjoy a party under the stars. Shongololo finally wears all of his shoes.]({{ page.images-folder }}/12.jpg)
