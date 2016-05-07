@@ -8,13 +8,13 @@ style: chapter
 
 # Searching for the spirit of spring
 
-![]({{ page.images-folder }}/01.jpg)
+![Young Nkanyezi holds a butterfly in her hand. She looks out over her village.]({{ page.images-folder }}/01.jpg)
 
 The Winter cold had passed.
 
 Spring was coming to Nkanyezi’s village. Soon the villagers would gather to celebrate the new season. Nkanyezi looked forward to the Spring festival more than any other day in the year.
 
-![]({{ page.images-folder }}/02.jpg)
+![Nkanyezi stands outside a hut. She looks worried. Two women talk inside.]({{ page.images-folder }}/02.jpg)
 
 One warm morning, Nkanyezi overheard two village elders talking about the festival.
 
@@ -22,7 +22,7 @@ One warm morning, Nkanyezi overheard two village elders talking about the festiv
 
 “How can we have a Spring festival in a village that has forgotten how to celebrate?” asked another.
 
-![]({{ page.images-folder }}/03.jpg)
+![Nkanyezi has an idea.]({{ page.images-folder }}/03.jpg)
 
 Nkanyezi was worried. 
 
@@ -34,19 +34,19 @@ Nkanyezi thought for a long time.
 
 “I must go in search of things that will bring backthe spirit of celebration to my village.”
 
-![]({{ page.images-folder }}/04.jpg)
+![Three women give Nkanyezi a bag.]({{ page.images-folder }}/04.jpg)
 
 The elders gave Nkanyezi their blessing for the journey. They gave her a bag to carry the things she would find.
 
 Nkanyezi was afraid, but she believed she would succeed.
 
 
-![]({{ page.images-folder }}/05.jpg)
+![Nkanyezi sails alone in a boat.]({{ page.images-folder }}/05.jpg)
 
 Nkanyezi walked all day. She hiked up a hill, and down into a valley. She sailed across the great river, and climbed between sharp rocks. She marched across the plains until she reached the shadow of the red mountains.
 
 
-![]({{ page.images-folder }}/06.jpg)
+![A kind woman holds a bottle of yellow paint.]({{ page.images-folder }}/06.jpg)
 
 As night was closing in, Nkanyezi arrived at a village of patterns and colours as she had never seen before. She told the village elders about her journey to bring back the spirit of celebration to her people
 
@@ -56,17 +56,17 @@ Nkanyezi thanked the elders and put the paint in her bag.
 
 Early the next morning she went on her way again, excited with this gift of colour.
 
-![]({{ page.images-folder }}/07.jpg)
+![Nkanyezi walks through a forest of trees.]({{ page.images-folder }}/07.jpg)
 
 Nkanyezi walked all day, through a vast forest of giant trees. As the sky became too dark for her to see, she heard the sound of beating drums. She hurried towards the drumming, feeling the spirit of dance coming to her tired feet.
 
-![]({{ page.images-folder }}/08.jpg)
+![Nkanyezi stands behind a tree. She watches a tribe dance around a fire.]({{ page.images-folder }}/08.jpg)
 
 Nkanyezi found herself in the village of the Bhubezi. People were sitting around a fire, drumming and singing. She had never before heard such wonderful music. 
 
 She told the village elders about her journey to bring back the spirit of celebration to her people. The Bhubezi invited her to rest and stay the night.
 
-![]({{ page.images-folder }}/09.jpg)
+![A royal woman hands Nkanyezi a drum.]({{ page.images-folder }}/09.jpg)
 
 In the morning the chief called on Nkanyezi. 
 
@@ -74,13 +74,13 @@ In the morning the chief called on Nkanyezi.
 
 Nkanyezi thanked the elders and put the drum in her bag. She went on her way again, delighted with this gift of music and dance.
 
-![]({{ page.images-folder }}/10.jpg)
+![Nkanyezi smells something on the breeze. She smiles.]({{ page.images-folder }}/10.jpg)
 
 On the third day of her journey, as she a passed a field of fat cows, her nose started to tingle. An aroma tickled her taste buds and her mouth started to water. She followed the scent, and arrived in a village to find people standing over steaming pots of stew. 
 
 This tribe was famous for its feasts and Nkanyezi had never before tasted such flavours. After she had eaten her fill, she told the village elders about her journey to bring back the spirit of celebration to her people.
 
-![]({{ page.images-folder }}/11.jpg)
+![Three women hand Nkanyezi a jar of spices.]({{ page.images-folder }}/11.jpg)
 
 The next day, the council of cooks gave her a secret spice blend.
 
@@ -90,7 +90,7 @@ Nkanyezi thanked the elders and put the spices in her bag.
 
 She knew she had everything she needed. With new energy she started the long journey back to the village of Ndlovu.
 
-![]({{ page.images-folder }}/12.jpg)
+![Nkanyezi leads all the villagers in a parade. They play music and sing. She throws glitter in the air.]({{ page.images-folder }}/12.jpg)
 
 When she arrived home the villagers gathered around her to hear of her adventures. She told them the tales of what she had seen, heard, and eaten. Then she opened her bag to share the gifts given. The people rejoiced to receive these treasures.
 
