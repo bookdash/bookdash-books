@@ -34,7 +34,7 @@ Nkanyezi thought for a long time.
 
 “I must go in search of things that will bring backthe spirit of celebration to my village.”
 
-![Three women give Nkanyezi a bag.]({{ page.images-folder }}/04.jpg)
+![Three women give Nkanyezi a bag. They send her on her way.]({{ page.images-folder }}/04.jpg)
 
 The elders gave Nkanyezi their blessing for the journey. They gave her a bag to carry the things she would find.
 
