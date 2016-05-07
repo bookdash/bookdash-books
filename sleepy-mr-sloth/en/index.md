@@ -1,5 +1,9 @@
 ---
+stylesheet: screen.css
 title: Sleepy Mr Sloth
+published: true
+layout: default
+style: chapter
 ---
 
 # Sleepy Mr Sloth
@@ -52,7 +56,7 @@ Oh no, Mr Sloth, that’s a snake over there!
 
 Not a branch! Poor old snake. You gave him quite a scare.
 
-![Mr Sloth spots and branch. There are feet nearby.]({{ page.images-folder }}/09.jpg)
+![Mr Sloth spots a branch. There are feet nearby.]({{ page.images-folder }}/09.jpg)
 
 This branch looks lovely! I think I’ll sleep here.  
 
