@@ -5,7 +5,8 @@ published: true
 layout: default
 style: chapter
 ---
-# 
+# Title 
+
 ![Wangari and her mother hold hands in a field.]({{ page.images-folder }}/01.jpg)
 
 
@@ -41,5 +42,3 @@ style: chapter
 
 
 ![A beautiful old tree stands tall and proud in the field.]({{ page.images-folder }}/12.jpg)
-
-
