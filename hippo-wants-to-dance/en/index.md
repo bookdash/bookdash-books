@@ -6,7 +6,7 @@ layout: default
 style: chapter
 ---
 
-# Title
+# Hippo Wants to Dance
 
 ![Hippo stamps her big feet on the ground. Dust clouds appear.]({{ page.images-folder }}/01.jpg)
 
@@ -24,7 +24,9 @@ THUMP! THUMP!
 
 ![Hippo splashes in the river among the bulrushes.]({{ page.images-folder }}/03.jpg)
 
-Hippo wants to dance.She rolls into the river and splashes her arms and legs.
+Hippo wants to dance.
+
+She rolls into the river and splashes her arms and legs.
 
 SPLISH! SPLASH!
 
@@ -43,7 +45,7 @@ She twirls around and around in a field, kicking her legs up high.
 
 SWOOSH! SWOOSH!
 
-![Three Meerkat babies are enjoying a bubble bath. Meerkat, with his nose in the air, stands in front of them and waves Hippo away.]({{ page.images-folder }}/06.jpg)
+![Three Meerkat babies enjoy a bubble bath. Meerkat sticks his nose in the air and waves Hippo away.]({{ page.images-folder }}/06.jpg)
 
 “Be careful! You nearly kicked me!” says Meerkat, bathing his babies. 
 
@@ -65,7 +67,11 @@ SQUISH! SQUASH!
 
 ![Hippo sits down dejectedly. Grasshopper stands nearby.]({{ page.images-folder }}/09.jpg)
 
-Hippo is sad. She is too sad to dance.She sits on a rock and cries. The tears roll down her cheeks and fall on the ground.
+Hippo is sad. 
+
+She is too sad to dance.
+
+She sits on a rock and cries. The tears roll down her cheeks and fall on the ground.
 
 ![As Hippo's tears fall, Grasshopper dances.]({{ page.images-folder }}/10.jpg)
 
