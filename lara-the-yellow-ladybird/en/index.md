@@ -8,7 +8,7 @@ style: chapter
 
 # Lara the Yellow Ladybird
 
-![Lara the ladybird sits on the stem of a flower. She watches all the other ladybirds. They all have red wings. Her's are yellow.]({{ page.images-folder }}/01.jpg)
+![Lara sits on a flower. She watches the other ladybirds. They all have red wings. Her's are yellow.]({{ page.images-folder }}/01.jpg)
 
 Lara the ladybird was a special bug.
 
