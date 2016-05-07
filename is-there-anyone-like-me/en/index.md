@@ -22,7 +22,7 @@ And talks the same.
 
 And even has my curls.
 
-![Donkey looks up at her pointing ears with her big green eyes. Donkey laughs.]({{ page.images-folder }}/04.jpg)
+![Donkey looks up at her pointy ears with her big green eyes. Donkey laughs.]({{ page.images-folder }}/04.jpg)
 
 Someone with my eyes my ears. 
 
