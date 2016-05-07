@@ -8,13 +8,13 @@ style: chapter
 
 # Little Ant's Big Plan
 
-![Little Ant wears glasses and sits on top of a book. The other ants speak to him while holding items of food.]({{ page.images-folder }}/01.jpg)
+![Little Ant wears glasses and sits on top of a book. The other ants hold items of food.]({{ page.images-folder }}/01.jpg)
 
 Little Ant loved to read. Little Ant was often teased.
 
 “Ants don’t read. Ants must feed. Ants collect the food they need.”
 
-![A boy lies on a picnic blanket reading a book, while the ants carry away his picnic food.]({{ page.images-folder }}/02.jpg)
+![A boy lies on a picnic blanket reading a book. The ants carry away his picnic food.]({{ page.images-folder }}/02.jpg)
 
 Little Ant would read all day, he’d read and read the day away. 
 
@@ -28,7 +28,7 @@ His mum and dad got really mad, and Little Ant felt really bad.
 
 In autumn when the leaves fall down, the ants must keep food underground.
 
-![The Queen stands in front of her ant subjects and speaks to them.]({{ page.images-folder }}/05.jpg)
+![The Queen addresses the ants.]({{ page.images-folder }}/05.jpg)
 
 The Queen wants food to fill the store, so all the ants must work some more.
 
@@ -64,7 +64,7 @@ The stores are full. They cheer like mad.
 
 Ant gets hugs from mum and dad.
 
-![Little Ant and his little sister stand and hold hands on top of the boy's shoulder. The boy is reading a  book.]({{ page.images-folder }}/12.jpg)
+![The boy is reading a book. Little Ant and his little sister hold hands on top of the boy's shoulder. ]({{ page.images-folder }}/12.jpg)
 
 His baby sister takes his hand “Now I think I understand.”
 
