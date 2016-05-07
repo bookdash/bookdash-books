@@ -8,7 +8,7 @@ style: chapter
 
 # Maddy Moona’s Menagerie!
 
-![Maddy Moona is dressed in black and white and wears a party hat. There are balloons and birthday bunting in the background.]({{ page.images-folder }}/01.jpg)
+![Maddy Moona is dressed in black and white. She wears a party hat.]({{ page.images-folder }}/01.jpg)
 
 My name is Maddy Moona, and today I’m turning five. 
 
@@ -18,7 +18,7 @@ We’ll travel across the whole wide world, searching Mali through Tibet, until 
 
 Oh, I know just what I’ll get!
 
-![Maddy rides on the back of an elephant. Her party hat lifts off her head with the force of the elephant's sneeze.]({{ page.images-folder }}/02.jpg)
+![Maddy rides on an elephant's back. Her party hat lifts off her head with the force of the elephant's sneeze.]({{ page.images-folder }}/02.jpg)
 
 I’m going to get an elephant. I’ll ride on it to school.
 
@@ -28,7 +28,7 @@ But... what if Ellie caught a cold? I guess she’d sneeze.... A LOT!
 
 There is no tissue big enough to wipe up all that snot.
 
-![A giant crocodile lies in the bath and Maddy helps him floss his teeth.]({{ page.images-folder }}/03.jpg)
+![A giant crocodile lies in the bath. Maddy helps him floss his teeth.]({{ page.images-folder }}/03.jpg)
 
 I want a Nile crocodile sent to me by the pharaohs. 
 
@@ -38,7 +38,7 @@ I’ll keep him in the bathtub and brush his pearly whites,
 
 But... what if flossing all those teeth takes me all day and night?
 
-![Maddy stands against the wall of a sweet shop as two porcupines wearing balaclavas shoot quills at her.]({{ page.images-folder }}/04.jpg)
+![Maddy stands against the wall of a sweet shop. Two porcupines wearing balaclavas shoot quills at her.]({{ page.images-folder }}/04.jpg)
 
 Perhaps a pair of porcupines, for games of robbers and cops.
 
@@ -90,7 +90,7 @@ But... if Snakey develops too much of a crush, he’ll suffocate me with affecti
 
 To be honest, I just can’t marry a snake! And reptiles can’t handle rejection.
 
-![Maddy sits on a chair with a giraffe. The ceiling of the room is lifting off above the giraffe's curled neck.]({{ page.images-folder }}/09.jpg)
+![Maddy sits on a chair with a giraffe. The ceiling of the room lifts off above the giraffe's curled neck.]({{ page.images-folder }}/09.jpg)
 
 No, reptiles aren’t the way to go. I definitely need something taller.
 
