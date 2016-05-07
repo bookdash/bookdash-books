@@ -20,7 +20,7 @@ Little Ant would read all day, he’d read and read the day away.
 
 The other ants took what they found to store for winter underground.
 
-![Inside his ant heap, Little Ant's Mum and Dad scold Little Ant about reading books all the time. His little sister watches with interest.]({{ page.images-folder }}/03.jpg)
+![Inside his ant heap, Little Ant's Mum and Dad scold him about reading books all the time. His little sister watches with interest.]({{ page.images-folder }}/03.jpg)
 
 His mum and dad got really mad, and Little Ant felt really bad.
 
