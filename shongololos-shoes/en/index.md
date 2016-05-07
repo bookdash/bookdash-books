@@ -50,7 +50,7 @@ Will I ever find my shoes?
 
 Shoes, eh? You should ask the Monkeys
 
-![The monkeys are in the tree playing tin can telephone with two of Shongololo's shoes.]({{ page.images-folder }}/09.jpg)
+![The monkeys are in the tree. They play tin can telephone with two of Shongololo's shoes.]({{ page.images-folder }}/09.jpg)
 
 We’re busy. Go ask Owl, she knows everything!
 
