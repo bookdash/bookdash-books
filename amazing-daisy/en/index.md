@@ -20,7 +20,7 @@ Once upon a time on a little farm near a little village there lived a little chi
 But all the other chickens laughed at her. 
 
 
-![While the other chickens tease Daisy, her mother talks to her.]({{ page.images-folder }}/03.jpg)
+![The other chickens tease Daisy. Her mother comforts her.]({{ page.images-folder }}/03.jpg)
 
 “You are so weird,” they said. “We won’t play with you anymore.”
 
