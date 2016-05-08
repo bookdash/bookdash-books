@@ -78,4 +78,6 @@ By lunch time, Sindi loved everything about school.
 
 “I wish the moon could see me now,” she said to herself. “Now I will learn to read. I will learn to write.
 
-But also I will sing and dance!”And all of Sindi’s new friends danced with her, just like the animals had done. They clapped their hands and sang to her tune.
+But also I will sing and dance!”
+
+And all of Sindi’s new friends danced with her, just like the animals had done. They clapped their hands and sang to her tune.
