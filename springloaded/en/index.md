@@ -1,8 +1,12 @@
 ---
-title: Title
+stylesheet: screen.css
+title: Springloaded
+published: true
+layout: default
+style: chapter
 ---
 
-# Title
+# Springloaded
 
 ![]({{ page.images-folder }}/01.jpg)
 
@@ -49,5 +53,3 @@ title: Title
 
 
 ![]({{ page.images-folder }}/12.jpg)
-
-
