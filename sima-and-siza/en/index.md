@@ -8,7 +8,7 @@ style: chapter
 
 # Sima and Siza
 
-![A boy holds a tea party with his doll. The rest of the toys watch.]({{ page.images-folder }}/01.jpg)
+![A boy has a tea party with his doll. The rest of the toys watch.]({{ page.images-folder }}/01.jpg)
 
 Simamkele loves dolls. Mama buys him lots. They keep his loneliness away. Sima’s favourite doll is Siza. Sima wants to be a nurse when he grows up.
 
