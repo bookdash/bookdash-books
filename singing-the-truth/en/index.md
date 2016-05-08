@@ -54,4 +54,4 @@ Then a wonderful day dawned when Nelson Mandela became president of South Africa
 
 ![Miriam dances and sings on stage. People of all colours dance in the audience.]({{ page.images-folder }}/12.jpg)
 
-After that I could sing in a free, fair country. People of different skin colours could enjoy music together. I helped make this happen because I was brave and strong. I sang the truth in all ofmy songs.
+After that I could sing in a free, fair country. People of different skin colours could enjoy music together. I helped make this happen because I was brave and strong. I sang the truth in all of my songs.
