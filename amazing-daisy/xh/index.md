@@ -10,7 +10,7 @@ style: chapter
 
 ![Daisy stands outside her chicken coop.]({{ page.images-folder }}/01.jpg)
 
-Kwathi kekaloku ngantsomi kwifama encinane kufuphi nelali encinane... 
+Kwathi kekaloku ngantsomi kwifama encinane kufuphi nelali encinane ... 
 
 kwakuhlala khona inkukhu encinane ebizwa ngokuba ngu Daisy.
 
@@ -56,7 +56,7 @@ Ebebanomfanekiso-ngqondweni wokubhabha edlula oonondlwane kwaye edlula iinkonjan
 
 ![Daisy flaps her wings. Daisy crashes to the ground.]({{ page.images-folder }}/06.jpg)
 
-Ngoko ke... wabhabhazela, wabhabhazela,wabhabhazela, ngazo zonke iintsuku U-Daisy ebengabhabhazela amaphiko akhe.
+Ngoko ke ... wabhabhazela, wabhabhazela,wabhabhazela, ngazo zonke iintsuku U-Daisy ebengabhabhazela amaphiko akhe.
 
 Ebengaphakama ukusuka emhlabeni kodwa awele phantsi kwakhona.
 
@@ -73,13 +73,13 @@ Azifuni ukubhabha kodwa uyafuna! Ungakwenza oko,” Watsho uMama.
 
 Kusuku olulandelayo u-Daisy wakhwela ngaphezulu kwendlu yeenkukhu kwaye wabhabhazela, wabhabhazela, wabhabhazela,wabhabhazela amaphiko akhe.
 
-Wabhabhela emoyeni kwaye wabhabhazela amaphiko akhe...
+Wabhabhela emoyeni kwaye wabhabhazela amaphiko akhe ...
 
-kwaye wabhabhazela amaphiko akhe...
+kwaye wabhabhazela amaphiko akhe ...
 
-kwaye wabhabhazela amaphiko akhe...
+kwaye wabhabhazela amaphiko akhe ...
 
-kwaye...
+kwaye ...
 
 
 ![Daisy falls on the ground with a thud.]({{ page.images-folder }}/09.jpg)
@@ -99,9 +99,9 @@ Wabhabhazela, wabhabhazela, wabhabhazela, u-Daisy wabhabhazela amaphiko ache.
 
 Wabhabhela emoyeni kwaye wabhabhazela
 
-amaphiko akhe... kwaye wabhabhazela amaphiko
+amaphiko akhe ... kwaye wabhabhazela amaphiko
 
-akhe... kwaye wabhabhazela amaphiko akhe...
+akhe ... kwaye wabhabhazela amaphiko akhe ...
 
 
 ![Daisy confidently flies alongside a swallow and a sparrow.]({{ page.images-folder }}/11.jpg)
