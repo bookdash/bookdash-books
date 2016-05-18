@@ -38,7 +38,7 @@ Usuku lonke uYusuf ubheka esibhakabhakeni. Siyakhanya, asinamafu futhi akukho mo
 
 Ngezinye izinsuku ubaba kaYusuf uza nendaba. Njengalapho bathola khona izimfudu zasolwandle esihlabathini, amakhulu azo ekhafulwe ulwandle ngenxa yesiphepho.
 
-“Ini-i-i? Ini--i? Ini-i-i?” kukhala izinyoni zasolwandle. “Nizokwenzani ukuze nisize izimfudu?
+“Ini-i-i? Ini-i-i? Ini-i-i?” kukhala izinyoni zasolwandle. “Nizokwenzani ukuze nisize izimfudu?
 
 ”UBaba wathi, “Sazihlenga lezo zimfudu, ngizokutshela nje ngingakufihleli. Sazibuyisela olwandle, ngisho nolokugcina imbala.”
 
