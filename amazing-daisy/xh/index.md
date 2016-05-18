@@ -56,7 +56,7 @@ Ebebanomfanekiso-ngqondweni wokubhabha edlula oonondlwane kwaye edlula iinkonjan
 
 ![Daisy flaps her wings. Daisy crashes to the ground.]({{ page.images-folder }}/06.jpg)
 
-Ngoko ke ... wabhabhazela, wabhabhazela,wabhabhazela, ngazo zonke iintsuku U-Daisy ebengabhabhazela amaphiko akhe.
+Ngoko ke ... wabhabhazela, wabhabhazela, wabhabhazela, ngazo zonke iintsuku U-Daisy ebengabhabhazela amaphiko akhe.
 
 Ebengaphakama ukusuka emhlabeni kodwa awele phantsi kwakhona.
 
@@ -71,7 +71,7 @@ Azifuni ukubhabha kodwa uyafuna! Ungakwenza oko,” Watsho uMama.
 
 ![Daisy climbs the wall of the chicken coop.]({{ page.images-folder }}/08.jpg)
 
-Kusuku olulandelayo u-Daisy wakhwela ngaphezulu kwendlu yeenkukhu kwaye wabhabhazela, wabhabhazela, wabhabhazela,wabhabhazela amaphiko akhe.
+Kusuku olulandelayo u-Daisy wakhwela ngaphezulu kwendlu yeenkukhu kwaye wabhabhazela, wabhabhazela, wabhabhazela, wabhabhazela amaphiko akhe.
 
 Wabhabhela emoyeni kwaye wabhabhazela amaphiko akhe ...
 
