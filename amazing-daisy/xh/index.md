@@ -1,6 +1,6 @@
 ---
 stylesheet: screen.css
-title: Title
+title: "U-Daisy Omangalisayo"
 published: true
 layout: default
 style: chapter
