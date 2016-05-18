@@ -29,7 +29,7 @@ En bas de la rue, Zanele, la meilleure amie de Sizwe était debout derrière la 
 
 Sizwe sentit le sourire grimper, et grimper en lui. Avant qu'il s'en rende compte, son sourire BONDIT, et traversa le jardin jusqu'à Zanele.
 
-![Zanele holds up the letter. She is smiling at the postman.]({{ page.images-folder }}/04.jpg)
+![Zanele holds up a letter. She is smiling at the postman.]({{ page.images-folder }}/04.jpg)
 
 Zanele tenait le sourire très fort – il était trop précieux pour le laisser s'envoler.
 
@@ -38,7 +38,7 @@ Comme Sizwe marchait vers la bibliothèque, la sonnette retentit à la porte de 
 Zanele était si heureuse que le sourire rebondit et rayonna sur le facteur.
 "Merci, Monsieur le Facteur!" dit-elle.
 
-![The postman smiles at the barking dog.]({{ page.images-folder }}/05.jpg)
+![The postman smiles at a barking dog.]({{ page.images-folder }}/05.jpg)
 
 Le sourire de Zanele était la chose la plus brillante que le facteur ait vu de toute la matinée. Il le tint au chaud comme il peinait sous la pluie.
 
