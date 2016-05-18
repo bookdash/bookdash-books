@@ -73,7 +73,7 @@ encore, à chaque enfant.
 
 ![Everyone is smiling!]({{ page.images-folder }}/09.jpg)
 
-Les enfants souriaient à leurs mamans et papas et leurs gogos et tatas, à leurs frères et sœurs. Ils souriaient au chauffeur de bus et à l'épicier, à Mme Makabela, qui alors sourit à son mari, qui sourit au maire...
+Les enfants souriaient à leurs mamans et papas et leurs gogos et tatas, à leurs frères et sœurs. Ils souriaient au chauffeur de bus et à l'épicier, à Mme Makau, qui alors sourit à son mari, qui sourit au maire...
 
 Les sourires bondissaient et roulaient, rayonnaient et illuminaient jusqu'à ce que TOUT LE MONDE sourit et rigole et rit très fort sous la pluie.
 
