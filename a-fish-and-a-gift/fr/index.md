@@ -10,7 +10,7 @@ style: chapter
 
 ![Yusuf and Papa high-five each other.](images/1.jpg)
 
-Un vendredi pas comme les autres,le père de Yusuf s’habille bien avant l’apparition dans le ciel des premières lueurs du jour. Il endosse sa lourde veste à l’épreuve des intempéries et met son bonnet vert de laine qui lui couvre les oreilles. Il envoie la main à son garçon. Les yeux de Yusuf brillent quand son papa lui annonce: "Aujourd’hui, je vais attraper un poisson et te rapporter un cadeau."
+Un vendredi pas comme les autres, le père de Yusuf s’habille bien avant l’apparition dans le ciel des premières lueurs du jour. Il endosse sa lourde veste à l’épreuve des intempéries et met son bonnet vert de laine qui lui couvre les oreilles. Il envoie la main à son garçon. Les yeux de Yusuf brillent quand son papa lui annonce: "Aujourd’hui, je vais attraper un poisson et te rapporter un cadeau."
 
 
 ![Papa rides to the beach on his bicycle.](images/2.jpg)
