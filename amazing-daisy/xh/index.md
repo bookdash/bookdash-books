@@ -95,7 +95,7 @@ Iinkukhu azinako ukubhabha!”
 
 Kodwa kusuku olulandelayo u-Daisy wakhwela ngaphezulu, phezulu kumphezulu karontabile.
 
-Wabhabhazela, wabhabhazela, wabhabhazela, u-Daisy wabhabhazela amaphiko ache.
+Wabhabhazela, wabhabhazela, wabhabhazela, u-Daisy wabhabhazela amaphiko akhe.
 
 Wabhabhela emoyeni kwaye wabhabhazela
 
