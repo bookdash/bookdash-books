@@ -67,11 +67,8 @@ Avec le temps, les nouveaux arbres se transformèrent en forêts, et les rivièr
 
 ![A portrait of Wangari wearing Kenyan headdress is surrounded by trees.]({{ page.images-folder }}/11.jpg)
 
-Wangari avait travaillé dur. Partout dans
-le monde, les gens s’en aperçurent et lui
-donnèrent un prix renommé. Il s’appelle
-le Prix Nobel de la Paix et elle fut la
-première femme africaine à le recevoir.
+Wangari avait travaillé dur. Partout dans le monde, les gens s’en aperçurent et lui
+donnèrent un prix renommé. Il s’appelle le Prix Nobel de la Paix et elle fut la première femme africaine à le recevoir.
 
 ![A beautiful old tree stands tall and proud in the field.]({{ page.images-folder }}/12.jpg)
 
