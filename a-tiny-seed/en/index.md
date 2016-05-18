@@ -48,7 +48,7 @@ Wangari was excited! She wanted to know more about the world.
 
 At the American university Wangari learnt many new things. She studied plants and how they grow. And she remembered how she grew: playing games with her brothers in the shade of the trees in the beautiful Kenyan forests.
 
-![Wangari sits on top of pile of books and reads.]({{ page.images-folder }}/07.jpg)
+![Wangari sits on top of a pile of books and reads.]({{ page.images-folder }}/07.jpg)
 
 The more she learnt, the more she realised that she loved the people of Kenya. She wanted them to be happy and free. The more she learnt, the more she remembered her African home.
 
