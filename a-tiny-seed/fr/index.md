@@ -1,11 +1,11 @@
 ---
 stylesheet: screen.css
-title: "Une petite graine : l’histoire de Wangari Maathai"
+title: "Une petite graine: l’histoire de Wangari Maathai"
 published: true
 layout: default
 style: chapter
 ---
-# Title 
+# Une petite graine: l’histoire de Wangari Maathai 
 
 ![Wangari and her mother hold hands in a field.]({{ page.images-folder }}/01.jpg)
 
