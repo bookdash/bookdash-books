@@ -12,7 +12,7 @@ style: chapter
 
 I was born in summer, in a town called Matatiele in the Eastern Cape. Matatiele is near Lesotho where there are many mountains. In the winter they are covered with snow. 
 
-![Zanele lies in a hospital bed. Her mother is worried. The doctor explains that they must do tests.]({{ page.images-folder }}/02.jpg)
+![Zanele lies in a hospital bed. Her mother is worried. The doctor explains that something is wrong with Zanele.]({{ page.images-folder }}/02.jpg)
 
 My father was a builder and he moved from place to place to find work. We moved to Lesotho and that's where I started school. I was very happy. But when I was eleven years old, I grew tired and weak, and then I couldn't walk. My parents took me to the hospital. 
 
