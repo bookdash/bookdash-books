@@ -1,6 +1,6 @@
 ---
 stylesheet: screen.css
-title: Title
+title: Ukuhamba kunye
 published: true
 layout: default
 style: chapter
