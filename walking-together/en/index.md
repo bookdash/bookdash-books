@@ -68,7 +68,7 @@ Here, hold my hand.
 
 She’ll check your blood pressure with this clever armband.
 
-![The mother and daughter leave the clinic. Mother is carrying a bag of medicine They are both smiling.]({{ page.images-folder }}/11.jpg)
+![The mother and daughter leave the clinic. Mother is carrying a bag of medicine. They are both smiling.]({{ page.images-folder }}/11.jpg)
 
 They give us our medicine, tell us what we should know, to keep us all healthy. 
 
