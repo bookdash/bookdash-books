@@ -79,7 +79,7 @@ Les sourires bondissaient et roulaient, rayonnaient et illuminaient jusqu'à ce 
 
 ![Sizwe and his mother are at the library. Sizwe is not smiling.]({{ page.images-folder }}/10.jpg)
 
-Dans la bibliothèque, tout était calme ; il n'y avait que le bruit de la pluie.
+Dans la bibliothèque, tout était calme; il n'y avait que le bruit de la pluie.
 
 "Il est temps de partir," dit la mère de Sizwe en fermant son livre.
 "Oh, maman!" dit Sizwe qui avait épuisé ses sourires.
@@ -94,7 +94,7 @@ Toute la ville était là!
 
 Tout le monde!
 
-Et ils souriaient TOUS !
+Et ils souriaient TOUS!
 
 
 ![The sun is shining. Sizwe is smiling.]({{ page.images-folder }}/12.jpg)
@@ -104,6 +104,6 @@ fou de joie que le sourire éclate, qu'il soit brillant et illumine tout avec fo
 
 Et quelque chose changea. L'après-midi sombre, triste et pluvieuse ne semblait plus aussi sombre.
 
-Est-ce que le... ? OUI!
+Est-ce que le...? OUI!
 
 Les nuages partirent et le soleil chaud brilla au-dessus d'eux, avec le plus grand, le plus brillant et le plus éclatant de tous les sourires.
