@@ -76,7 +76,7 @@ The smiles leapt and rolled and beamed and gleamed until EVERYONE was smiling an
 
 ![Sizwe and his mother are at the library. Sizwe is not smiling.]({{ page.images-folder }}/10.jpg)
 
-In the library, everything was quiet except for the sound of the rain. “It’s time to go,” said Sizwe’s mother, closingher book.“Aw, mom!” said Sizwe, who had run out ofsmiles. 
+In the library, everything was quiet except for the sound of the rain. “It’s time to go,” said Sizwe’s mother, closingher book.“Aw, mom!” said Sizwe, who had run out of smiles. 
 
 ![Everyone is in the street. They are all smiling.]({{ page.images-folder }}/11.jpg)
 
