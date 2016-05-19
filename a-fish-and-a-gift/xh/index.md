@@ -14,7 +14,11 @@ Ngomnye uLwesihlanu okhethekileyo utata kaYusuf wanxiba phambi kokuba kuthi qhek
 
 ![Papa rides to the beach on his bicycle.](images/2.jpg)
 
-Intlanzi kunye nesipho? Owu, kazi siza kuba yintoni? UPapa waqhuba ibhayisekile esehla ngendela eya eMuizenberg. Tshixi, tshixi, angxola njalo amavili ukuya kutshona eSurfer’s Corner.Amangabangaba ayejikeleza esibhakabhakeni. “Wha-a-a! Wha-a-a! Wha-a-a!” akhala njalo. “Uza kumphathela ntoni uYusuf?”UPapa wakhalisa uphondo lwebhayisekile yakhe. “Lindani niza kubona ukuba iza kuba yintoni na!”
+Intlanzi kunye nesipho? Owu, kazi siza kuba yintoni? UPapa waqhuba ibhayisekile esehla ngendela eya eMuizenberg. Tshixi, tshixi, angxola njalo amavili ukuya kutshona eSurfer’s Corner.
+
+Amangabangaba ayejikeleza esibhakabhakeni. “Wha-a-a! Wha-a-a! Wha-a-a!” akhala njalo. “Uza kumphathela ntoni uYusuf?”
+
+UPapa wakhalisa uphondo lwebhayisekile yakhe. “Lindani niza kubona ukuba iza kuba yintoni na!”
 
 ![Papa waves to the fishermen, who prepare to go to sea.](images/3.jpg)
 
