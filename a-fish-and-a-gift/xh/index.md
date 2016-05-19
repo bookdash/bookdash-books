@@ -56,7 +56,7 @@ Kunyaka ophelileyo abalobi balwa nabadlali ababaleka ngebhodi phezu kwamaza.
 
 “Wha-a-a! Wha-a-a! Wha-a-a!” kukhala amangabangaba. 
 
-“Ulwandle lonele wonke umntu,” watsho utata kaYusuf. Wababonisa abadlali iphepha-mvume yokuloba eyayiyekaTat’omkhulu uSaliw. “Amanza ngawomntu wonke. Amanzi asimahla.”
+“Ulwandle lonele wonke umntu,” watsho utata kaYusuf. Wababonisa abadlali iphepha-mvume yokuloba eyayiyekaTat’omkhulu uSalie. “Amanza ngawomntu wonke. Amanzi asimahla.”
 
 
 ![Ouma Safiya and Yusuf wait for Papa on the beach. Ouma Safiya looks through her binoculars.](images/10.jpg)
