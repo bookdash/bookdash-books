@@ -20,7 +20,7 @@ Mom was a sangoma, but she also worked to make other people’s homes neat and c
 
 The laws of the land said that selling homemade beer was wrong. The police sent my mom to jail for six long months. I was only 18 days old, and needed my mom. So even though I was just a baby, I went to jail too.
 
-![Little Miriam vaccuums the carpet. She sings as she goes.]({{ page.images-folder }}/04.jpg)
+![Little Miriam vacuums the carpet. She sings as she goes.]({{ page.images-folder }}/04.jpg)
 
 As a little girl I loved to sing. When I was older, I helped my mom clean houses. Singing songs as I worked made the chores go faster and the days seem brighter. Singing made me happier than I can explain.
 
