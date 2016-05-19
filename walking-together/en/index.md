@@ -24,7 +24,7 @@ I’ll keep you cosy like a mother hen.
 
 She keeps her chicks warm under her wing.
 
-![They see a man walking in the rain. He wears a tranditional straw hat.]({{ page.images-folder }}/04.jpg)
+![They see a man walking in the rain. He wears a traditional straw hat.]({{ page.images-folder }}/04.jpg)
 
 If the rain starts to fall down from the sky, like that good hat I’ll keep your face dry.
 
