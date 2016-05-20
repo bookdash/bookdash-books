@@ -20,7 +20,7 @@ She was the oldest of eight children.
 
 At night, her grandmother told magical stories about ogres and giants, animals of the forests, great beasts, and little creatures of the veld. 
 
-It was Sindiwe’s favourite time
+It was Sindiwe’s favourite time.
 
 ![Young Sindiwe stands by the chalkboard like a teacher.]({{ page.images-folder }}/03.jpg)
 
