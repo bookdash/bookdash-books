@@ -18,7 +18,7 @@ Can you guess who our best friend is?
 
 Our best friend is **Bird!**
 
-![Rhino snorts angrily at the flies buzzing around his tail.]({{ page.images-folder }}/03.jpg)
+![Rhino snorts angrily at the fleas buzzing around his tail.]({{ page.images-folder }}/03.jpg)
 
 I am Rhino. 
 
