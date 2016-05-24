@@ -48,7 +48,7 @@ U-Graça wanikwa umsebenzi obalulekileyo wokuqinisekisa ukuba bonke abantwana ba
 
 U-Graça kunye no Samora babanabantwana ababini. Babelana ngephupha lokwenza iimpilo ezintle kusapho lwabo nakubantu baseMozambique. Babonwabile kwaye benethemba.
 
-Usuku olubi kakhulu emva koko, u-Samora wasweleka kuntlitheko lwenqwelo-moya
+Usuku olubi kakhulu emva koko, u-Samora wasweleka kuntlitheko lwenqwelo-moya.
 
 ![An older Graça and Nelson Mandela stand in the field with a group of happy children.]({{ page.images-folder }}/11.jpg)
 
