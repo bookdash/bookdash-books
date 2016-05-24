@@ -8,40 +8,34 @@ style: chapter
 
 # Ukukhangela umoya we Ntlakohlaza
 
-![]({{ page.images-folder }}/01.jpg)
+![Young Nkanyezi holds a butterfly in her hand. She looks out over her village.]({{ page.images-folder }}/01.jpg)
 
 Ubusika obubandayo budlulile.
 
 
 Intlakohlaza yayifika kwilali ka Nkanyezi. Kungekudala abahlali baselalini bazakudibana ukuze bavuyisane nexesha lonyaka elitsha. U-Nkanyezi ujonge phambili kumbhiyozo we Ntlakohlaza ngaphezulu kwalo naluphina usuku enyakeni.
 
-![]({{ page.images-folder }}/02.jpg)
+![Nkanyezi stands outside a hut. She looks worried. Two women talk inside.]({{ page.images-folder }}/02.jpg)
 
 Intsasa efudumeleyo enye, u-Nkanyezi uye weva abahlali abadala baselalini bethetha ngombhiyozo.
 
-
 “Abantu base Ndlovu baphulukane nomoya wabo wokubhiyoza,” omnye wabefunyeka.
-
 
 “Singabanawo njani umbhiyozo wase Kwindla elalini elibeleyo ngendlela yokuzonwabisa?” wabuza omnye.
 
-![]({{ page.images-folder }}/03.jpg)
+![Nkanyezi has an idea.]({{ page.images-folder }}/03.jpg)
 
 U-Nkanyezi wayekhathazekile.
 
-
 “Lingaqaqamba njani ilanga kwakhona ngaphandle kokuba sicule ukulivusa kubuthongo balo basebusika?” wazibuza yena buqu.
-
 
 U-Nkanyezi wacinga kangange xesha elide. 
 
-
 Kufuneka ndiyokufuna oko silahlekene nako,” wafikelela kwisigqibo.
-
 
 “Kufuneka ndihambe ndiyokukhangela izinto ezizakubuyisa umoya wokubhiyoza kwilali yam.”
 
-![]({{ page.images-folder }}/04.jpg)
+![Three women give Nkanyezi a bag. They send her on her way.]({{ page.images-folder }}/04.jpg)
 
 The elders gave Nkanyezi their blessing for
 
@@ -53,11 +47,11 @@ Nkanyezi was afraid, but she believed she
 
 would succeed.
 
-![]({{ page.images-folder }}/05.jpg)
+![Nkanyezi sails alone in a boat.]({{ page.images-folder }}/05.jpg)
 
 U-Nkanyezi wahamba usuku lonke. Wanyuka iliwa, kwaye wehlela kwintlambo. Wahamba ngesikhephe ukunqumla umlambo omkhulu, kwaye wakhwela phakathi kwamatye abukhali. Wamatsha ukunqumla amathafa de wafikelela kumthunzi weentaba ezibomvu.
 
-![]({{ page.images-folder }}/06.jpg)
+![A kind woman holds a bottle of yellow paint.]({{ page.images-folder }}/06.jpg)
 
 Njengokuba kwakubasebusuku, u-Nkanyezi wafikelela kwilali yeentlobontlobo zokwenza izinto kunye nemibala njengokuba wayengazange abone ngaphambili. Waxelela abantu abadala baselalini ngohambo lwakhe lokubuyisa umoya wokubhiyoza kubantu bakhe.
 
@@ -72,17 +66,17 @@ U-Nkanyezi wabulela kubantu abadala kwaye wafaka ipeyinti ebhegini yakhe.
 
 Kwangethuba kwintsasa elandelayo waqhubeka ngendlela yakhe kwakhona, echulumancile sesisipho sombala.
 
-![]({{ page.images-folder }}/07.jpg)
+![Nkanyezi walks through a forest of trees.]({{ page.images-folder }}/07.jpg)
 
 U-Nkanyezi wahamba usuku lonke, ukunqumla kwihlathi elikhulu lemithi emikhulu kakhulu. Njengokuba isibhakabhaka sisiya sibamnyama ukuze abone, weva isandi samagubu abethwayo. Wahamba ngokukhawuleza ukuya kwicala lokubethwa kwamagubu, esiva umoya womdaniso kwiinyawo zakhe ezidiniweyo.
 
-![]({{ page.images-folder }}/08.jpg)
+![Nkanyezi stands behind a tree. She watches a tribe dance around a fire.]({{ page.images-folder }}/08.jpg)
 
 U-Nkanyezi wazifumana ekwilali yase Bhubezi. Abantu babehleli bengqonge umlilo, bebetha amagubu kwaye becula. Zange ave umculo omnandi kangako ngaphambili.
 
 Waxelela abantu abadala baselalini ngohambo lwakhe lokubuyisa umoya wokubhiyoza kubantu bakhe. Abase Bhubezi bamema ukuba aphumle kwaye ahlale ngobobusuku.
 
-![]({{ page.images-folder }}/09.jpg)
+![A royal woman hands Nkanyezi a drum.]({{ page.images-folder }}/09.jpg)
 
 Ekuseni inkosi yambiza u-Nkanyezi.
 
@@ -90,13 +84,13 @@ Ekuseni inkosi yambiza u-Nkanyezi.
 
 U-Nkanyezi wabulela kubantu abadala kwaye wabeka igubu ebhegini yakhe. Waqhubeka ngendlela yakhe kwakhona, rnovuyo sesisipho somculo kunye nomdaniso.
 
-![]({{ page.images-folder }}/10.jpg)
+![Nkanyezi smells something on the breeze. She smiles.]({{ page.images-folder }}/10.jpg)
 
 Ngosuku lwesithathu lohambo lwakhe, wadlula kwithafa leenkomo ezityebileyo, impumlo yakhe yaqalisa ukuntlontlozela. Ivumba lanyumbaza amaqhuqhuvana okungcamla kwakhe kwaye umlomo wakhe waqalisa ukubanamanzi. Walilandela ivumba, kwaye wayokufika elalini apho wafumana abantu beme ecaleni kwembiza zesityu esibilayo.
 
 Olu uhlanga lwaludumile ngezidlo zalo kwaye u-Nkanyezi zange ngaphambili angcamle izinongo ezinjalo. Emva kokuba etye ukutya kwakhe, waxelela abantu abadala baselalini ngohambo lwakhe lokubuyisa umoya wokubhiyoza kubantu bakhe.
 
-![]({{ page.images-folder }}/11.jpg)
+![Three women hand Nkanyezi a jar of spices.]({{ page.images-folder }}/11.jpg)
 
 Kusuku olulandelayo, ibhunga labapheki lamnika umxube wesiqholo oyimfihlo.
 
@@ -106,7 +100,7 @@ U-Nkanyezi wabulela kubantu abadala kwaye wabeka iziqholo ebhegini yakhe.
 
 Wayesazi ukuba wayenayo yonke into awayeyifuna. Ngamandla amatsha waqalisa ngohambo olude olubuyela kwilali yase Ndlovu.
 
-![]({{ page.images-folder }}/12.jpg)
+![Nkanyezi leads all the villagers in a parade. They play music and sing. She throws glitter in the air.]({{ page.images-folder }}/12.jpg)
 
 Uthe wakufika ekhaya abahlali baselalini badibana bemngqongile ukuva ngohambo lodelo-ngozi lwakhe. Wabaxelela ngamabali ezinto azibonileyo, azivileyo, kunye nazityileyo. Emva koko wavula ibhegi yakhe ukwabelana ngezipho azinikiweyo. Abantu bavuya kakhulu kukufumana ezizinto zixabisekileyo.
 
