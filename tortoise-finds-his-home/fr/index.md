@@ -73,7 +73,7 @@ aucun signe d’une maison. Le vent soulevait les feuilles et les faisait tourne
 
 Tortue était fatiguée. « Vous êtes lourds », soupira-t-elle.
 
-![Tortoise walks with Mouse, Snail, Sparrow and Ladybird on his back.]({{ page.images-folder }}/09.jpg)
+![Tortoise walks with Mouse, Snail, Sparrow and Ladybird on her back.]({{ page.images-folder }}/09.jpg)
 
 Le vent devint plus fort. Le ciel s’assombrit.
 
@@ -89,7 +89,7 @@ plic, faisait la pluie.
 Le vent tourbillonnait et fouettait. Il fit tomber Escargot et Moineau et Coccinelle et Souris du dos de Tortue.
 
 
-![The hail comes down. Tortoise curls up in his shell. The other animals stand nearby.]({{ page.images-folder }}/11.jpg)
+![The hail comes down. Tortoise curls up in her shell. The other animals stand nearby.]({{ page.images-folder }}/11.jpg)
 
 Puis vint la grêle, tac-tac-tac. Tortue eut si peur qu’elle se recroquevilla dans sa carapace.
 C’était chaud et douillet à l’intérieur.
@@ -99,5 +99,3 @@ C’était chaud et douillet à l’intérieur.
 ![Mouse, Ladybird, Snail and Sparrow take shelter underneath Tortoise's shell.]({{ page.images-folder }}/12.jpg)
 
 « Oh, voici la maison de tortue ! »
-
-
