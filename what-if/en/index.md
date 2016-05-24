@@ -16,7 +16,7 @@ Nandi sat on the blue steps of her house.
 
 She was wondering...
 
-![Nandi leaps high above her house.]({{ page.images-folder }}/03.jpg)
+![Nandi jumps high above her house.]({{ page.images-folder }}/03.jpg)
 
 What if jelly beans made you jump really high? 
 
