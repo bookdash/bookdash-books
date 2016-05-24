@@ -1,6 +1,6 @@
 ---
 stylesheet: screen.css
-title: Title
+title: "Queen of Soweto: The story of Basetsana Kumalo"
 published: true
 layout: default
 style: chapter
