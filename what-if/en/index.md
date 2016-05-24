@@ -8,64 +8,64 @@ style: chapter
 
 # What if...?
 
-![]({{ page.images-folder }}/01.jpg)
+![A little girl sits outside on the steps of her house. She is dreaming.]({{ page.images-folder }}/01.jpg)
 
 Nandi sat on the blue steps of her house.
 
-![]({{ page.images-folder }}/02.jpg)
+![There are dream bubbles, birds and coloured shapes all over.]({{ page.images-folder }}/02.jpg)
 
 She was wondering...
 
-![]({{ page.images-folder }}/03.jpg)
+![Nandi leaps high above her house.]({{ page.images-folder }}/03.jpg)
 
 What if jelly beans made you jump really high? 
 
 You could get to school in one big leap!
 
-![]({{ page.images-folder }}/04.jpg)
+![Nandi talks to two chickens and a goat.]({{ page.images-folder }}/04.jpg)
 
 What if goats and chickens could talk?
 
 Would they tell good jokes?
 
-![]({{ page.images-folder }}/05.jpg)
+![Nandi blasts off in a rocket ship.]({{ page.images-folder }}/05.jpg)
 
 What if houses were rocket ships? 
 
 Your family could go on holidays to the moon!
 
-![]({{ page.images-folder }}/06.jpg)
+![Nandi sits at the table holding a knife and fork. There is a hamburger on the table.]({{ page.images-folder }}/06.jpg)
 
 What if no one had to cook? What if supper just arrived on the table?
 
 (And it was always your favourite.)
 
-![]({{ page.images-folder }}/07.jpg)
+![Nandi eats an ice lolly.]({{ page.images-folder }}/07.jpg)
 
 What if ice-lollies never melted? 
 
 They could last all summer.
 
-![]({{ page.images-folder }}/08.jpg)
+![Tigers, elephants, books and their characters swirl around Nandi's head.]({{ page.images-folder }}/08.jpg)
 
 What if the pictures in books flew around your head when Dad read to you?
 
-![]({{ page.images-folder }}/09.jpg)
+![Nandi wears pink gum boots and runs very fast.]({{ page.images-folder }}/09.jpg)
 
 What if my pink gumboots were magical? 
 
 I could run faster than my big brother!
 
-![]({{ page.images-folder }}/10.jpg)
+![Nandi squeezes her eyes shut.]({{ page.images-folder }}/10.jpg)
 
 What if you squeezed your eyes shut and...
 
-![]({{ page.images-folder }}/11.jpg)
+![Nandi sits outside on the steps of her house. She is still dreaming. Her brother stands behind her.]({{ page.images-folder }}/11.jpg)
 
 “Nandi, what are you doing?” asked Nandi’s big brother. 
 
 Nandi sat back on the step with a big smile on her face. 
 
-![]({{ page.images-folder }}/12.jpg)
+![Nandi smiles.]({{ page.images-folder }}/12.jpg)
 
 “Just wondering,” she said.
