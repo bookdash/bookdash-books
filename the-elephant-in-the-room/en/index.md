@@ -8,7 +8,7 @@ style: chapter
 
 # The Elephant in the Room
 
-![]({{ page.images-folder }}/01.jpg)
+![An elephant stands inside a room.]({{ page.images-folder }}/01.jpg)
 
 One morning, Lindi found an elephant in her room.
 
@@ -18,7 +18,7 @@ One morning, Lindi found an elephant in her room.
 
 The elephant yawned.
 
-![]({{ page.images-folder }}/02.jpg)
+![In the kitchen, the table is set with breakfast things. The elephant sticks its trunk into the milk jug.]({{ page.images-folder }}/02.jpg)
 
 At breakfast, Lindi’s dad asked her to pass the milk.
 
@@ -28,7 +28,7 @@ At breakfast, Lindi’s dad asked her to pass the milk.
 
 The elephant burped.
 
-![]({{ page.images-folder }}/03.jpg)
+![The elephant stands in front of the classroom. He has '1 + 1' drawn on his hide.]({{ page.images-folder }}/03.jpg)
 
 At school, the teacher grumbled, “What’s wrong with this chalkboard? It’s all wrinkly!”
 
@@ -38,7 +38,7 @@ At school, the teacher grumbled, “What’s wrong with this chalkboard? It’s 
 
 The elephant ate the teacher’s sandwiches.
 
-![]({{ page.images-folder }}/04.jpg)
+![Lindi stands in the playground and cries. The elephant has damaged the swings.]({{ page.images-folder }}/04.jpg)
 
 At break-time, the elephant followed Lindi to the playground.
 
@@ -48,13 +48,13 @@ He knocked over the swings by mistake.
 
 The elephant drooped. He walked away, wiping his eyes with his trunk.
 
-![]({{ page.images-folder }}/05.jpg)
+![Lindi looks into the distance with a pair of binoculars.]({{ page.images-folder }}/05.jpg)
 
 After school, Lindi couldn’t see the elephant anywhere.
 
 “Elephant!” she called. “Where are you?
 
-![]({{ page.images-folder }}/06.jpg)
+![It is dark. Lindi sits alone outside her house.]({{ page.images-folder }}/06.jpg)
 
 Lindi went home without him.
 
@@ -66,7 +66,7 @@ And waited.
 
 And waited.
 
-![]({{ page.images-folder }}/07.jpg)
+![It is light. Lindi sees the elephant coming down the road.]({{ page.images-folder }}/07.jpg)
 
 And then ... she saw a trunk. 
 
@@ -76,13 +76,13 @@ And ears.
 
 The elephant was coming down the road!
 
-![]({{ page.images-folder }}/08.jpg)
+![Lindi is reunited with the elephant.]({{ page.images-folder }}/08.jpg)
 
 She ran up and hugged him.
 
 “I’m sorry,” she said. “I didn’t mean it! I know you’re real. You’re my elephant.”
 
-![]({{ page.images-folder }}/09.jpg)
+![Lindi rides on the elephant's back.]({{ page.images-folder }}/09.jpg)
 
 The elephant lifted her up and put her on his back, and she rode down the street. 
 
@@ -94,7 +94,7 @@ She waved to her neighbours.
 
 “Don’t be silly,” said Mrs Green. “Little girls don’t grow that high. Everybody knows that.”
 
-![]({{ page.images-folder }}/10.jpg)
+![Lindi and the elephant swim in the lake.]({{ page.images-folder }}/10.jpg)
 
 The elephant took Lindi to the lake, and she slid down his trunk like it was a slide.
 
@@ -102,7 +102,7 @@ The elephant took Lindi to the lake, and she slid down his trunk like it was a s
 
 They played all afternoon, laughing and splashing and spraying each other with water.
 
-![]({{ page.images-folder }}/11.jpg)
+![Lindi is in her bed. The elephant stands outside her bedroom window.]({{ page.images-folder }}/11.jpg)
 
 That night, the elephant tucked her into bed.
 
@@ -110,6 +110,6 @@ That night, the elephant tucked her into bed.
 
 He patted her head, and curled up to sleep outside her window.
 
-![]({{ page.images-folder }}/12.jpg)
+![Lindi faces her elephant.]({{ page.images-folder }}/12.jpg)
 
 “Elephants are the best friends in the world,” Lindi said to herself. “Nobody knows that, except for me and my elephant.”
