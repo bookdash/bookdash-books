@@ -28,6 +28,8 @@ They looked and looked, but there was no sign of a house.
 
 ![Sparrow perches on a branch. Tortoise and Snail pass him.]({{ page.images-folder }}/03.jpg)
 
+A little later they passed Sparrow. 
+
 “Are you looking for something?” asked Sparrow.
 
 “Yes, we’re looking for Tortoise’s house. Have you seen it?”
