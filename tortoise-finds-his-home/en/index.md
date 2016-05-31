@@ -10,9 +10,9 @@ style: chapter
 
 ![Tortoise passes Snail in the veld.]({{ page.images-folder }}/01.jpg)
 
-One day Tortoise was walking through the veld. He was searching and searching. 
+One day Tortoise was walking through the veld. He was searching and searching. He gazed into the distance and squinted at the grass.
 
-He gazed into the distance and squinted at the grass.
+Then he went past snail. 
 
 “Are you looking for something?” Snail asked.
 
