@@ -13,9 +13,9 @@ style: chapter
 Un jour, Tortue marchait dans le veld. Elle regardait partout. Elle regardait au loin et dans
 l’herbe. Et puis, elle croisa Escargot.
 
-« Tu cherches quelque chose ? », demanda Escargot.
+« Tu cherches quelque chose? », demanda Escargot.
 
-« Oui, Escargot, je cherche ma maison. Est-ce que tu l’aurais vue, par hasard ? »
+« Oui, Escargot, je cherche ma maison. Est-ce que tu l’aurais vue, par hasard? »
 
 ![Snail travels on Tortoise's back.]({{ page.images-folder }}/02.jpg)
 
@@ -27,7 +27,7 @@ Ils cherchèrent et cherchèrent, mais aucun signe d’une maison. Le soleil ét
 
 ![Sparrow perches on a branch. Tortoise and Snail pass him.]({{ page.images-folder }}/03.jpg)
 
-Un peu plus tard, ils croisèrent Moineau. « Vous cherchez quelque chose ? », demanda Moineau.
+Un peu plus tard, ils croisèrent Moineau. « Vous cherchez quelque chose? », demanda Moineau.
 
 « Oui, Moineau, je cherche ma maison. Est-ce que tu l’aurais vue, par hasard? » 
 
@@ -43,8 +43,8 @@ Tortue continua, avec Escargot et Moineau perches sur sa carapace. Ils cherchèr
 
 ![Ladybird sits on a dandelion stem. Tortoise, Snail and Sparrow pass him.]({{ page.images-folder }}/05.jpg)
 
-Un peu plus tard, ils croisèrent Coccinelle. « Vous cherchez quelque chose ? », demanda
-Coccinelle. « Oui, Coccinelle, je cherche ma maison. Est-ce que tu l’aurais vue, par hasard ? »
+Un peu plus tard, ils croisèrent Coccinelle. « Vous cherchez quelque chose? », demanda
+Coccinelle. « Oui, Coccinelle, je cherche ma maison. Est-ce que tu l’aurais vue, par hasard? »
 
 
 ![Snail, Sparrow and Ladybird travel on Snail's back.]({{ page.images-folder }}/06.jpg)
@@ -77,12 +77,12 @@ Tortue était fatiguée. « Vous êtes lourds », soupira-t-elle.
 
 Le vent devint plus fort. Le ciel s’assombrit.
 
-« Oh, où est ma maison ? », demanda Tortue.
+« Oh, où est ma maison? », demanda Tortue.
 
 Le tonnerre grondait sur les collines. Les éclairs tombaient au loin. Plic,
 plic, faisait la pluie.
 
-« Oh, où est la maison de Tortue ? », demandèrent Escargot et Moineau et Coccinelle et Souris.
+« Oh, où est la maison de Tortue? », demandèrent Escargot et Moineau et Coccinelle et Souris.
 
 ![The wind gets stronger. The rain threatens. The animals all fly off Tortoise's back.]({{ page.images-folder }}/10.jpg)
 
@@ -94,8 +94,8 @@ Le vent tourbillonnait et fouettait. Il fit tomber Escargot et Moineau et Coccin
 Puis vint la grêle, tac-tac-tac. Tortue eut si peur qu’elle se recroquevilla dans sa carapace.
 C’était chaud et douillet à l’intérieur.
 
-« Oh, voici ma maison ! »
+« Oh, voici ma maison! »
 
 ![Mouse, Ladybird, Snail and Sparrow take shelter underneath Tortoise's shell.]({{ page.images-folder }}/12.jpg)
 
-« Oh, voici la maison de tortue ! »
+« Oh, voici la maison de tortue! »
