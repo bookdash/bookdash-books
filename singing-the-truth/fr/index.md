@@ -1,6 +1,6 @@
 ---
 stylesheet: screen.css
-title: Title
+title: 'Chanter la vérité: l''histoire de Miriam Makeba'
 published: true
 layout: default
 style: chapter
