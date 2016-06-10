@@ -8,7 +8,7 @@ style: chapter
 
 # Tortue trouve sa maison
 
-![Tortoise passes snail in the veld.]({{ page.images-folder }}/01.jpg)
+![Tortoise passes snail in the veld.]({{ site.image-set }}/01.jpg)
 
 Un jour, Tortue marchait dans le veld. Elle regardait partout. Elle regardait au loin et dans
 l’herbe. Et puis, elle croisa Escargot.
@@ -17,7 +17,7 @@ l’herbe. Et puis, elle croisa Escargot.
 
 « Oui, Escargot, je cherche ma maison. Est-ce que tu l’aurais vue, par hasard? »
 
-![Snail travels on Tortoise's back.]({{ page.images-folder }}/02.jpg)
+![Snail travels on Tortoise's back.]({{ site.image-set }}/02.jpg)
 
 Escargot dit: « Non, je ne l’ai pas vue, mais je vais t’aider à chercher. » 
 
@@ -25,7 +25,7 @@ Il grimpa sur la carapace de Tortue. Tortue reprit sa route avec Escargot sur le
 
 Ils cherchèrent et cherchèrent, mais aucun signe d’une maison. Le soleil était haut dans le ciel.
 
-![Sparrow perches on a branch. Tortoise and Snail pass him.]({{ page.images-folder }}/03.jpg)
+![Sparrow perches on a branch. Tortoise and Snail pass him.]({{ site.image-set }}/03.jpg)
 
 Un peu plus tard, ils croisèrent Moineau. « Vous cherchez quelque chose? », demanda Moineau.
 
@@ -33,7 +33,7 @@ Un peu plus tard, ils croisèrent Moineau. « Vous cherchez quelque chose? », d
 
 Moineau dit: « Non, je ne l’ai pas vue, mais je vais t’aider à chercher. »
 
-![Snail sits on Tortoise's back. Sparrow flies ahead of them. There is a ladybird on a dandelion in the distance.]({{ page.images-folder }}/04.jpg)
+![Snail sits on Tortoise's back. Sparrow flies ahead of them. There is a ladybird on a dandelion in the distance.]({{ site.image-set }}/04.jpg)
 
 Il battit des ailes et fila au loin.
 
@@ -41,13 +41,13 @@ Il battit des ailes et fila au loin.
 
 Tortue continua, avec Escargot et Moineau perches sur sa carapace. Ils cherchèrent et cherchèrent, mais aucun signe de maison. Le soleil avait un peu baissé dans le ciel.
 
-![Ladybird sits on a dandelion stem. Tortoise, Snail and Sparrow pass him.]({{ page.images-folder }}/05.jpg)
+![Ladybird sits on a dandelion stem. Tortoise, Snail and Sparrow pass him.]({{ site.image-set }}/05.jpg)
 
 Un peu plus tard, ils croisèrent Coccinelle. « Vous cherchez quelque chose? », demanda
 Coccinelle. « Oui, Coccinelle, je cherche ma maison. Est-ce que tu l’aurais vue, par hasard? »
 
 
-![Snail, Sparrow and Ladybird travel on Snail's back.]({{ page.images-folder }}/06.jpg)
+![Snail, Sparrow and Ladybird travel on Snail's back.]({{ site.image-set }}/06.jpg)
 
 Coccinelle dit : « Non, je ne l’ai pas vue, mais je vais t’aider à chercher. »
 
@@ -55,7 +55,7 @@ Elle sauta sur le dos de Tortue qui reprit son chemin, avec Escargot, Moineau et
 
 Ils cherchèrent et cherchèrent, mais aucun signe de maison. Une petite brise commençait à souffler.
 
-![The animals find Mouse. He is making a daisy chain.]({{ page.images-folder }}/07.jpg)
+![The animals find Mouse. He is making a daisy chain.]({{ site.image-set }}/07.jpg)
 
 Un peu plus tard ils croisèrent Souris, qui tressait une couronne de marguerites.
 
@@ -64,7 +64,7 @@ Un peu plus tard ils croisèrent Souris, qui tressait une couronne de marguerite
 « Oui, Souris, je cherche ma maison. Est-ce que tu l’aurais vue, par hasard ? »
 
 
-![Mouse climbs on Tortoise's back with the others. The wind blows the leaves and the daisy chain.]({{ page.images-folder }}/08.jpg)
+![Mouse climbs on Tortoise's back with the others. The wind blows the leaves and the daisy chain.]({{ site.image-set }}/08.jpg)
 
 Souris dit : « Non, je ne l’ai pas vue, mais je vais t’aider à chercher. »
 
@@ -73,7 +73,7 @@ aucun signe d’une maison. Le vent soulevait les feuilles et les faisait tourne
 
 Tortue était fatiguée. « Vous êtes lourds », soupira-t-elle.
 
-![Tortoise walks with Mouse, Snail, Sparrow and Ladybird on her back.]({{ page.images-folder }}/09.jpg)
+![Tortoise walks with Mouse, Snail, Sparrow and Ladybird on her back.]({{ site.image-set }}/09.jpg)
 
 Le vent devint plus fort. Le ciel s’assombrit.
 
@@ -84,18 +84,18 @@ plic, faisait la pluie.
 
 « Oh, où est la maison de Tortue? », demandèrent Escargot et Moineau et Coccinelle et Souris.
 
-![The wind gets stronger. The rain threatens. The animals all fly off Tortoise's back.]({{ page.images-folder }}/10.jpg)
+![The wind gets stronger. The rain threatens. The animals all fly off Tortoise's back.]({{ site.image-set }}/10.jpg)
 
 Le vent tourbillonnait et fouettait. Il fit tomber Escargot et Moineau et Coccinelle et Souris du dos de Tortue.
 
 
-![The hail comes down. Tortoise curls up in her shell. The other animals stand nearby.]({{ page.images-folder }}/11.jpg)
+![The hail comes down. Tortoise curls up in her shell. The other animals stand nearby.]({{ site.image-set }}/11.jpg)
 
 Puis vint la grêle, tac-tac-tac. Tortue eut si peur qu’elle se recroquevilla dans sa carapace.
 C’était chaud et douillet à l’intérieur.
 
 « Oh, voici ma maison! »
 
-![Mouse, Ladybird, Snail and Sparrow take shelter underneath Tortoise's shell.]({{ page.images-folder }}/12.jpg)
+![Mouse, Ladybird, Snail and Sparrow take shelter underneath Tortoise's shell.]({{ site.image-set }}/12.jpg)
 
 « Oh, voici la maison de tortue! »

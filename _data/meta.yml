@@ -1,0 +1,1241 @@
+########
+# SERIES
+########
+
+# The name of the organisation or entity that owns this series
+organisation: "Book Dash"
+# A live web address for the organisation
+url: "http://bookdash.org/"
+# The name of the series of books in this folder.
+name: "Book Dash ebooks"
+# A one-liner about this series. Useful for Open Graph metadata.
+description: "Simple digital versions of Book Dash books."
+
+########
+# TITLES
+########
+
+## Metadata follows [Dublin Core](https://en.wikipedia.org/wiki/Dublin_Core#DCMI_Metadata_Terms)
+## Custom fields added to standard DC terms: subtitle, publisher URL
+
+# Copy and uncomment this entry template (in most good text editors, commnet/uncomment with Ctrl+/ or Cmd+/)
+# slug:
+#   title: ""
+#   subtitle: ""
+#   creator: "" # E.g. the author
+#   contributor: "Book Dash volunteers" # E.g. other contributors
+#   subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+#   description: "" # E.g. the blurb
+#   publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+#   date: "" # YYYY-MM-DD e.g. publication date
+#   modified: "" # YYYY-MM-DD e.g. date of last revision
+#   type: "Story" # e.g. Novel, Poetry, Memoir
+#   format: "Digital" # e.g. Paperback, Digital download, Digital online
+#   identifier: "" # e.g. Parent UUID
+#   source: "" # e.g. parent ISBN
+#   language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+#   relation: "" # e.g. other edition ISBN
+#   coverage: "" # e.g. geographic place or chronological time span
+#   rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+#   ### Metadata for each product (only use values that override parent metadata)
+#   en: 
+#     date: "" # YYYY-MM-DD e.g. publication or creation date
+#     identifier: "" # e.g. ISBN or UUID
+a-beautiful-day:
+  title: "A Beautiful Day"
+  subtitle: ""
+  creator: "Raeesah Vawda, Lindy Pelzl, Elana Bregin" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "It’s a beautiful day for a picnic. Everyone wants to join in the fun." # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "2015-11-07" # YYYY-MM-DD e.g. publication date
+  modified: "2015-11-07" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "9c9e94e0-fe46-11e5-86aa-5e5517507c66" # e.g. Parent UUID
+  source: "978-1-928318-15-6" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    identifier: "9c9e94e0-fe46-11e5-86aa-5e5517507c66" # e.g. ISBN or UUID
+    translator: ""
+    title: "A Beautiful Day"
+a-dancers-tale:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+a-fish-and-a-gift:
+  title: "A Fish and a Gift"
+  subtitle: ""
+  creator: "Liesl Jobson, Jesse Breytenbach, Andy Thesen" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "Yusuf waits on the beach while Papa pushes out his boat. Surfers, turtles and sharks come from the sea. What will Papa bring back for Yusuf?" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "2014-06-28" # YYYY-MM-DD e.g. publication date
+  modified: "2014-06-28" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "9c9e6754-fe46-11e5-86aa-5e5517507c66" # e.g. Parent UUID
+  source: "978-0-9922357-8-9" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each translation (only use values that override parent metadata)
+  en: 
+    identifier: "9c9e6754-fe46-11e5-86aa-5e5517507c66" # e.g. ISBN or UUID
+    translator: ""
+  zu:
+    identifier: "9c9edd60-fe46-11e5-86aa-5e5517507c66" # e.g. ISBN or UUID
+    title: "Inhlanzi Nesipho"
+    translator: "Nal'ibali"
+a-house-for-mouse:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+a-tiny-seed:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+amazing-daisy:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+bathtub-safari:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+come-back-cat:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+gracas-dream:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+grandpas-gold:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+hippo-wants-to-dance:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+how-about-you:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+hugs-in-the-city:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+i-can-dress-myself:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+i-will-help-you:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+is-there-anyone-like-me:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+it-wasnt-me:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+karabos-question:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+katiitis-song:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+lara-the-yellow-ladybird:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+little-ants-big-plan:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+little-sock:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+londi-the-dreaming-girl:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+lory-dory:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+maddy-moona:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+miss-helens-magical-world:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+mrs-penguins-palace:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+queen-of-soweto:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+rafikis-style:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+sbus-special-shoes:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+searching-for-the-spirit-of-spring:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+shongololos-shoes:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+sima-and-siza:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+sindi-and-the-moon:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+sindiwe-and-the-fireflies:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+singing-the-truth:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+sizwes-smile:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+sleepy-mr-sloth:
+  title: "Sleepy Mr Sloth"
+  subtitle: ""
+  creator: "Graham Paterson, Paul Kennedy, Nick Mulgrew" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "2014-05-10" # YYYY-MM-DD e.g. publication date
+  modified: "2016-06-08" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "9c9e7cb2-fe46-11e5-86aa-5e5517507c66" # e.g. Parent UUID
+  source: "978-0-9922357-0-3" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each translation (only use values that override parent metadata)
+  en: 
+    identifier: "9c9e7cb2-fe46-11e5-86aa-5e5517507c66" # e.g. ISBN or UUID
+    translator: ""
+    title: "Sleepy Mr Sloth"
+  xh:
+    identifier: "9c9f1b18-fe46-11e5-86aa-5e5517507c66" # e.g. ISBN or UUID
+    translator: "Nal'ibali"
+    title: "USloth Vilavoco"
+springloaded:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+thatos-birthday-surprise:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+the-best-thing-ever:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+the-elephant-in-the-room:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+the-lion-who-wouldnt-try:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+there-must-be-a-rainbow:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+together-were-strong:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+tortoise-finds-his-home:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+walking-together:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+what-if:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+what-is-it:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+when-i-grow-up:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+who-is-our-friend:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+whose-button-is-this:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+why-is-nita-upside-down:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID
+zanele-situ-my-story:
+  title: ""
+  subtitle: ""
+  creator: "" # E.g. the author
+  contributor: "Book Dash volunteers" # E.g. other contributors
+  subject: "Juvenile Fiction" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
+  description: "" # E.g. the blurb
+  publisher: "Book Dash" # E.g. the publisher, imprint or brand name
+  date: "" # YYYY-MM-DD e.g. publication date
+  modified: "" # YYYY-MM-DD e.g. date of last revision
+  type: "Story" # e.g. Novel, Poetry, Memoir
+  format: "Digital" # e.g. Paperback, Digital download, Digital online
+  identifier: "" # e.g. Parent UUID
+  source: "" # e.g. parent ISBN
+  language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
+  relation: "" # e.g. other edition ISBN
+  coverage: "" # e.g. geographic place or chronological time span
+  rights: "This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share (copy and redistribute the material in any medium or format) and adapt it (remix, transform, and build upon the material) for any purpose, even commercially, as long as you give appropriate credit, with a link to your source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use." # e.g. a copyright statement
+  ### Metadata for each product (only use values that override parent metadata)
+  en: 
+    date: "" # YYYY-MM-DD e.g. publication or creation date
+    identifier: "" # e.g. ISBN or UUID

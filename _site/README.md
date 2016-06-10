@@ -42,12 +42,35 @@ It's made of four components:
 3. A link to each image, including a short description of what's in the image:
 
 	~~~
-	![Mr Sloth is sleepy and yawning]({{ page.images-folder }}/01.jpg)
+	![Mr Sloth is sleepy and yawning]({{ site.image-set }}/01.jpg)
 	~~~
 
 4.	The text of the story, as plain lines of text. The image always precedes the text that relates to it. (This is because in any book we, especially children, always take in the image before we read the text on a page.)
 
 Each of these elements must be separated by an empty line.
+
+### Images
+
+These digital versions include cover and story images, always saved as JPG.
+
+* Cover images are language-specific, JPG replicas of the front covers of the book in that language. Covers must always be saved as `cover.jpg`. Cover images are always square.
+* Story images do not include text, since all the text is in the story markdown/HTML. The should always be saved as two-digit numbered filenames in order: `01.jpg`, `02.jpg`, etc. The first image is the first story image in the book (i.e. not the book plate, endpapers, or title page). Story images are always landscape (a double-page-spread from the print version). There are almost always 12 story images. 
+
+This means that story images can be reused as is for each language. Although – since each translation has its own `images` folder – we can make exceptions if necessary and use language-specific variations, should they exist and be important for the story (e.g. a text-based sign in a picture).
+
+When preparing images, aim for 100KB per image, and about 1000 pixels across (the longest side, which should almost always be the width of the image). This makes entire books about 1.2MB in size, which is already quite large. Downstream reusers can then choose to downsample or downsize images if necessary.
+
+The easiest way to create story images is to export to JPEG from the InDesign file, with language layers hidden. If you use this option, we recommend the following export settings:
+
+* Export: Spreads
+* Quality: Medium
+* Format Method: Baseline
+* Resolution (ppi): 72
+* Color space: RGB
+* Embed Color Profile: sRGB checked
+* Anti-alias checked
+* Use Document Bleed Settings: unchecked
+* Simulate Overprint unchecked
 
 ### Editing the config file
 
