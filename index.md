@@ -9,8 +9,7 @@ style: home
 
 [Book Dash](http://bookdash.org) volunteers are creative professionals who create high-quality children's books that anyone can freely translate, print and distribute. This site hosts the plain HTML versions. Go to [bookdash.org](http://bookdash.org/see/books) for PDFs and source files.
 
-*	Sleepy Mr Sloth
-	*	[English](sleepy-mr-sloth/en)
+{% include catalogue.html %}
 
 ## Get involved
 

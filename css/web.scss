@@ -68,6 +68,9 @@ $line-height-default: 150%;
 
 // Typography
 
+h1, h2, h3, h4, h5, h6 {
+    clear: both;
+}
 h1 {
     margin-bottom: 2em;
 }
@@ -123,4 +126,59 @@ img {
 }
 .imprint-logo {
 	max-width: 3em;
+}
+
+// Nav
+
+// Switch out default book-title text for 'Contents'
+// Thanks http://stackoverflow.com/a/22054588/1781075
+#nav-bar a.nav-book {
+    display: inline-block;
+    text-indent: -999em;
+    line-height: 0; // Collapse the original line
+}
+#nav-bar a.nav-book:after {
+    content: " Choose";
+    text-indent: 0;
+    display: block;
+    line-height: initial; // New content takes up original line height
+}
+#nav-bar a.nav-page:before {
+    content: "• ";
+}
+
+// Catalogue thumbnails
+
+.catalogue {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    margin: 1em 0;
+}
+
+@mixin thumbnail() {
+    float: left;
+    margin: 0 1em 1em 0;
+    max-width: 8em;
+    .image {
+        max-width: 8em;
+        max-height: 8em;
+        object-fit: contain;
+        img {
+            border: 1px solid #e0e0e0;
+        }
+    }
+    .caption {
+        text-align: center;
+    }
+
+}
+
+.index-thumbnail {
+    @include thumbnail();
+}
+.translation-thumbnail {
+    @include thumbnail();
 }

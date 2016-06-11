@@ -1,19 +1,21 @@
 {% include get-slug.html %}
 {% include get-lang.html %}
+{% unless page.style == "catalogue" %}
 <blockquote class="copyright-text">
 
     <p><img src="{{ site.image-set }}/book-dash-logo.png" alt="Book Dash" class="imprint-logo"></p>
 
-    <p><em>{{ site.data.meta.[slug].[lang].title }}</em></p>
-    {% unless site.data.meta.[slug].language == 'en' %}
+    <p><em>{{ site.data.meta.titles.[slug].[lang].title }}</em></p>
+    {% unless site.data.meta.titles.[slug].language == 'en' %}
     <p>(<em>{{ page.book-title-en }}</em> in {{ page.language-label }})</p>
     {% endunless %}
 
-    <p>Created by {{ site.data.meta.[slug].creator }}
+    <p>Created by {{ site.data.meta.titles.[slug].creator }}
     </p>
-    {% unless site.data.meta.[lang].translator == '' %}
-    <p>Translated by {{ site.data.meta.[slug].[lang].translator }}</p>
+    {% unless site.data.meta.titles.[lang].translator == '' %}
+    <p>Translated by {{ site.data.meta.titles.[slug].[lang].translator }}</p>
     {% endunless %}
 
-    <p>{{ site.data.meta.[slug].rights | markdownify }}</p>
+    <p>{{ site.data.meta.titles.[slug].rights | markdownify }}</p>
 </blockquote>
+{% endunless %}

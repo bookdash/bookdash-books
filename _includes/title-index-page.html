@@ -1,0 +1,11 @@
+{% include get-slug.html %}
+
+<div class="catalogue">
+{% for lang in site.data.meta.titles.[slug].translations %}
+<div class="translation-thumbnail">
+    {% capture code %}{{ lang[0] }}{% endcapture %}
+    <p class="image"><a href="{{ lang[0] }}"><img src="{{ lang[0] }}/{{site.image-set}}/cover.jpg" /></a></p>
+    <p class="caption"><a href="{{ lang[0] }}">{{ site.data.language-codes.[code] }}</a></p>
+</div>
+{% endfor %}
+</div>

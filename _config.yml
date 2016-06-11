@@ -30,7 +30,7 @@ exclude: [
 #a-beautiful-day,
 a-dancers-tale,
 a-house-for-mouse,
-a-fish-and-a-gift,
+#a-fish-and-a-gift,
 a-tiny-seed,
 amazing-daisy,
 bathtub-safari,
@@ -120,4 +120,4 @@ defaults:
             stylesheet-web: "web.css"
             stylesheet-epub: "epub.css"
             style: "chapter"
-            start-page: "index.html"
+            start-page: "../"

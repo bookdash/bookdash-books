@@ -1,0 +1,10 @@
+<div class="catalogue">
+{% for book in site.data.meta.titles %}
+{% if book[1].title != "" %}
+<div class="index-thumbnail">
+<p class="image"><a href="{{ book[0] }}"><img src="{{ book[0] }}/en/{{site.image-set}}/cover.jpg" /></a></p>
+<p class="caption"><a href="{{ book[0] }}">{{book[1].title}}</a> ({% for lang in book[1].translations %}<a href="{{ book[0] }}/{{ lang[0] }}">{% capture code %}{{ lang[0] }}{% endcapture %}{{ site.data.language-codes.[code] }}</a>{% unless forloop.last == true %}, {% endunless %}{% endfor %})</p>
+</div>
+{% endif %}
+{% endfor %}
+</div>
