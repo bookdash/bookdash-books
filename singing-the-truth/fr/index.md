@@ -6,7 +6,7 @@ layout: default
 style: chapter
 ---
 
-# Chanter la vérité: l'histoire de Miriam Makeba
+# Chanter la vérité: L'Histoire de Miriam Makeba
 
 ![Miriam's mother holds baby Miriam in her arms.]({{ site.image-set }}/01.jpg)
 
