@@ -8,11 +8,11 @@ style: chapter
 
 # Intlanzi kunye nesipho
 
-![Yusuf and Papa high-five each other.](images/1.jpg)
+![Yusuf and Papa high-five each other.](images/01.jpg)
 
 Ngomnye uLwesihlanu okhethekileyo utata kaYusuf wanxiba phambi kokuba kuthi qheke ukukhanya esibhakabhakeni. Wazithi wanmbu ngesikhwehle sakhe kunye nomnqwazi wakhe wewulu oluhlaza wokogquma iindlebe. Wawangawangisa ebhabhayisa kunyana wakhe. Amehlo kaYusuf abengezela lulonwabo xa uPapa esithi, “Namhlanje yimini endiza kubamba ngayo intlanzi ndize ndikuphatele nesipho.”
 
-![Papa rides to the beach on his bicycle.](images/2.jpg)
+![Papa rides to the beach on his bicycle.](images/02.jpg)
 
 Intlanzi kunye nesipho? Owu, kazi siza kuba yintoni? UPapa waqhuba ibhayisekile esehla ngendela eya eMuizenberg. Tshixi, tshixi, angxola njalo amavili ukuya kutshona eSurfer’s Corner.
 
@@ -20,21 +20,21 @@ Amangabangaba ayejikeleza esibhakabhakeni. “Wha-a-a! Wha-a-a! Wha-a-a!” akha
 
 UPapa wakhalisa uphondo lwebhayisekile yakhe. “Lindani niza kubona ukuba iza kuba yintoni na!”
 
-![Papa waves to the fishermen, who prepare to go to sea.](images/3.jpg)
+![Papa waves to the fishermen, who prepare to go to sea.](images/03.jpg)
 
 Abalobi babukele ilanga lisenyuka. Bakhangela iminatha yabo ukuba imi kakuhle kusini na. Bakhangela amaphini abo okuqhuba izikhitshana. Bamamela ukuba uvela ngaphi na umoya. Batsala izikhitshana zabo bezifaka emanzini. Utat’omkhulu kaYusuf, uTa’mkhul’ uSalie, wayengumlobi oloba ngokutsala umnatha emva kwesikhitshane. Phambi kwakhe, utata wakhe, uTa’mkhul’uRidwaan, wayelwazi naye ulwandle. 
 
-![Papa heads out to sea with the other fishermen.](images/4.jpg)
+![Papa heads out to sea with the other fishermen.](images/04.jpg)
 
 Isikhitshana saya phambili siqhutywa ngamaza. Iingalo zikaPapa zabamba iphini lokuqhuba isikhitshane. Umlenze wakhe waxhathisa ecaleni lesikhitshane. Intamo yakhe yatsaleka, nezihlunu zakhe zahukuma.
 
 UPapa wayecula lo gama asebenzayo, “Yihla uze uthi swahla. Fumana iintlanzi. Tsala macala onke. Ungayeki.”
 
-![Yusuf examines the gifts Papa has brought him.](images/5.jpg)
+![Yusuf examines the gifts Papa has brought him.](images/05.jpg)
 
 Yonke loo mini uYusuf wayejonge sibhakabhakeni. Sasiluhlaza, kungekho nalinye ilifu nomoya ungekho. Intlanzi kunye nesipho! Uza kundiphathela ntoni bethu uPapa elwandle? Ngamanye amaxesha undiphathela unokrwece omhle. Maxa wambi andiphathela ibhotilana eluhlaza yamaso etyekezwe ngamaza.
 
-![Papa stands on the beach with the turtles.](images/6.jpg)
+![Papa stands on the beach with the turtles.](images/06.jpg)
 
 Ngezinye iintsuku utata kaYusuf uza nebali. Njengalaa mini babefumene ngayo amafudo aselwandle entlabathini, amakhulu-khulu amafudo etyekezwe lulwandle emva kwesiphango.
 
@@ -42,11 +42,11 @@ Ngezinye iintsuku utata kaYusuf uza nebali. Njengalaa mini babefumene ngayo amaf
 
 UPapa wathi, “Siwasindisile loo mafudo, ndiyakuxelela. Siwabuyisele elwandle kwakhona, nditsho nelokugqibela.”
 
-![Treknet fishermen on the beach.](images/7.jpg)
+![Treknet fishermen on the beach.](images/07.jpg)
 
 Ngalo lonke ixesha uPapa ubuya nengoma. Ucula ingoma lo gama etsala iphini lokuqhuba isikhitshane. Ucula ingoma lo gama etsala iminatha yokuloba. Ucula ingoma xa asonga iintambo. Ucula ingoma njengokuba enyova ibhayisekile yakhe, egoduka. “Yihla uze uthi swahla. Fumana iintlanzi. Tsala macala onke. Ungayeki.”
 
-![Ouma Safiya and Yusuf walk to greet Papa.](images/8.jpg)
+![Ouma Safiya and Yusuf walk to greet Papa.](images/08.jpg)
 
 UMakhulu uSafiya ufuna intlanzi i-yellowtail emnandi netyebileyo yesidlo sangokuhlwa. UMama ufuna ilokhwe entle.
 
@@ -54,7 +54,7 @@ UMakhulu uSafiya ufuna intlanzi i-yellowtail emnandi netyebileyo yesidlo sangoku
 
 UYusuf ubamba isandla sikaMakhulu. Bawela indlela ngakumagunjana okuhlamba. “Wha-a-a! Wha-a-a! Wha-a-a!” kukhala amangabangaba ethe ngcu phezu kwamaphahla anemibala eqaqambileyo. “Yintoni isidlo sangokuhlwa?”
 
-![Papa confronts a surfer on the beach.](images/9.jpg)
+![Papa confronts a surfer on the beach.](images/09.jpg)
 
 Kunyaka ophelileyo abalobi balwa nabadlali ababaleka ngebhodi phezu kwamaza.
 

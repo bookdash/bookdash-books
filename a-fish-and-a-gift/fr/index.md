@@ -8,12 +8,12 @@ style: chapter
 
 # Un poisson et un cadeau
 
-![Yusuf and Papa high-five each other.](images/1.jpg)
+![Yusuf and Papa high-five each other.](images/01.jpg)
 
 Un vendredi pas comme les autres, le père de Yusuf s’habille bien avant l’apparition dans le ciel des premières lueurs du jour. Il endosse sa lourde veste à l’épreuve des intempéries et met son bonnet vert de laine qui lui couvre les oreilles. Il envoie la main à son garçon. Les yeux de Yusuf brillent quand son papa lui annonce: "Aujourd’hui, je vais attraper un poisson et te rapporter un cadeau."
 
 
-![Papa rides to the beach on his bicycle.](images/2.jpg)
+![Papa rides to the beach on his bicycle.](images/02.jpg)
 
 Un poisson et un cadeau? Oh, qu’est ce que cela peut bien être? Le papa pédale jusqu’à la plage de
 Muizenberg. Criii, criii font les roues sur le chemin menant au coin des surfeurs.
@@ -22,23 +22,23 @@ Les goélands décrivent des cercles dans le ciel. "Quoi? Quoi? Quoi?", crient i
 
 Le papa actionne la clochette de son vélo. "Attendez et vous verrez!"
 
-![Papa waves to the fishermen, who prepare to go to sea.](images/3.jpg)
+![Papa waves to the fishermen, who prepare to go to sea.](images/03.jpg)
 
 Les pêcheurs regardent le soleil se lever. Ils inspectent leurs filets. Ils vérifient leurs rames. Ils écoutent le vent. Puis, ils poussent leurs embarcations dans l’eau. Le grandpère de Yusuf, Oupa Salie, était un pêcheur expert de la senne de plage. L’arrière grand père de Yusuf, Oupagrootjie Ridwaan, était un homme de mer.
 
 
-![Papa heads out to sea with the other fishermen.](images/4.jpg)
+![Papa heads out to sea with the other fishermen.](images/04.jpg)
 
 Le bateau roule sur les vagues. Les bras du papa s’étirent pour attraper les rames. Ses jambes se
 cramponnent contre les parois de l’embarcation. Sa nuque se raidit et les muscles de son dos se
 contractent. Alors qu’il pêche, le papa chante: "Plonge vers le fond. Trouve un poisson. Plouf et tire. Tire et retire."
 
-![Yusuf examines the gifts Papa has brought him.](images/5.jpg)
+![Yusuf examines the gifts Papa has brought him.](images/05.jpg)
 
 Toute la journée, Yusuf ne peut s’empêcher de regarder vers le ciel. Le ciel est radieux, dégagé et il n’y a pas de vent. Un poisson et un cadeau! Qu’est ce papa rapportera de la mer? Parfois, il ramène un joli coquillage. Parfois, il ramène une bouteille couleur jade rincée par les
 vagues.
 
-![Papa stands on the beach with the turtles.](images/6.jpg)
+![Papa stands on the beach with the turtles.](images/06.jpg)
 
 Certains jours, le père de Yusuf rapporte une histoire comme celle des tortues de mer échouées sur le sable, des centaines victimes d’une tempête.
 
@@ -46,11 +46,11 @@ Certains jours, le père de Yusuf rapporte une histoire comme celle des tortues 
 
 Papa avait répondu: "Je vous le dis. Nous les avons sauvées. Nous les avons toutes retournées dans l’océan."
 
-![Treknet fishermen on the beach.](images/7.jpg)
+![Treknet fishermen on the beach.](images/07.jpg)
 
 Le papa rapporte toujours une chanson. Il chante quand il rame. Il chante quand il tire les filets. Il chante quand il enroule les cordes. Il chante quand il revient à vélo à la maison. "Plonge vers le fond. Trouve un poisson. Plouf et tire. Tire et retire."
 
-![Ouma Safiya and Yusuf walk to greet Papa.](images/8.jpg)
+![Ouma Safiya and Yusuf walk to greet Papa.](images/08.jpg)
 
 Ouma Safiya souhaite un beau vivaneau à queue jaune bien en chair pour le souper. La maman veut
 une nouvelle robe. 
@@ -62,7 +62,7 @@ Yusuf prend la main d’Ouma. Ils traversent la route à la hauteur des cabines 
 
 "Quoi? Quoi? Quoi?" crient les goélands perchés sur les toits lumineux. "Qu’est-ce qu’il y a pour le souper?"
 
-![Papa confronts a surfer on the beach.](images/9.jpg)
+![Papa confronts a surfer on the beach.](images/09.jpg)
 
 L’an dernier, les pêcheurs s’en sont pris avec les surfeurs. Des poings tendus et des injures.
 
