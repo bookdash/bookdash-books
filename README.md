@@ -72,15 +72,14 @@ The easiest way to create story images is to export to JPEG from the InDesign fi
 * Use Document Bleed Settings: unchecked
 * Simulate Overprint unchecked
 
-### Editing the config file
+### Editing the metadata file
 
-Each book's details are included in the main `_config.yml` file. 
+Each book's details are included in `_data/meta.yml`.
 
-The config file is fairly easy to understand just by reading through it. Each book's details are set in three levels:
+This file is fairly easy to understand just by reading through it. Each book's details are set in two levels:
 
-*	Info that relates to all books (e.g. the CSS stylesheets we use)
-	*	Info that relates to all editions of a book (e.g. the original team that created it)
-		*	Info that relates to a specific translation (e.g. the language it's in).
+*	Info that relates to the original and, therefore, all editions of a book (e.g. the original team that created it)
+	*	Info that relates to a specific translation (e.g. the language it's in).
 
 Since even small mistakes in this file can break the whole website, only certain people are able to edit it. 
 
