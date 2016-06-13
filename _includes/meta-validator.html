@@ -1,0 +1,113 @@
+<div class="metadata-validation">
+
+<p>This test warns for missing metadata, but only these basic fields:</p>
+
+<ul>
+<li>Title</li>
+<li>Creator</li>
+<li>Subject</li>
+<li>Description</li>
+<li>Publisher</li>
+<li>Date</li>
+<li>Date modified</li>
+<li>Type (e.g. 'Story')</li>
+<li>Format</li>
+<li>Identifier (e.g. parent UUID)</li>
+<li>Source (e.g. parent ISBN)</li>
+<li>Language (parent/original)</li>
+<li>Rights statement</li>
+<li>If there are translations:
+    <li>Identifier (e.g. UUID)</li>
+    <li>Translated title</li>
+    <li>Translator</li>
+</li>
+</ul>
+
+<p>A missing 'Modified date' means the book is not available here yet, and will not be listed on the home page.</p>
+
+{% comment %}
+Loop through site.data.meta.titles looking for missing metadata.
+When something is missing, assign a variable, e.g. 'no-title' for a missing title
+{% endcomment %}
+
+{% for book in site.data.meta.titles %}
+
+{% if book[1].title == "" %}{% assign no-title = true %}{% endif %}
+{% if book[1].creator == "" %}{% assign no-creator = true %}{% endif %}
+{% if book[1].subject == "" %}{% assign no-subject = true %}{% endif %}
+{% if book[1].description == "" %}{% assign no-description = true %}{% endif %}
+{% if book[1].publisher == "" %}{% assign no-publisher = true %}{% endif %}
+{% if book[1].date == "" %}{% assign no-date = true %}{% endif %}
+{% if book[1].modified == "" %}{% assign no-modified = true %}{% endif %}
+{% if book[1].type == "" %}{% assign no-type = true %}{% endif %}
+{% if book[1].format == "" %}{% assign no-format = true %}{% endif %}
+{% if book[1].identifier == "" %}{% assign no-identifier = true = true %}{% endif %}
+{% if book[1].source == "" %}{% assign no-source = true %}{% endif %}
+{% if book[1].language == "" %}{% assign no-language = true %}{% endif %}
+{% if book[1].rights == "" %}{% assign no-rights = true %}{% endif %}
+{% if book[1].translations == "" %}
+    {% for lang in book[1].translations %}{{ lang }} ({{ site.data.meta.language-codes.[lang] }})
+    {% if book[1].translation.identifier == "" %}{% assign no-trans-identifier = true %}{% endif %}
+    {% if book[1].translation.title == "" %}{% assign no-trans-title = true %}{% endif %}
+    {% if book[1].translation.translator == "" %}{% assign no-trans-translator = true %}{% endif %}
+    {% endfor %}
+{% endif %}
+
+{% comment %}
+Now, if any missing-metadata variables were set...
+{% endcomment %}
+
+{% if 
+no-title or
+no-creator or
+no-subject or
+no-description or
+no-publisher or
+no-date or
+no-modified or
+no-type or
+no-format or
+no-identifier or
+no-source or
+no-language or
+no-rights or
+no-translations or
+no-trans-identifier or
+no-trans-title or
+no-trans-translator
+%}
+
+{% comment %}
+Output the title's slug, followed by a list of what's missing.
+{% endcomment %}
+
+<p><strong>{{ book[0] }}</strong></p>
+
+<ul>
+    {% if book[1].title == '' %}<li>Missing title</li>{% endif %}
+    {% if book[1].creator == "" %}<li>Missing creator</li>{% endif %}
+    {% if book[1].subject == "" %}<li>Missing subject</li>{% endif %}
+    {% if book[1].description == "" %}<li>Missing description</li>{% endif %}
+    {% if book[1].publisher == "" %}<li>Missing publisher</li>{% endif %}
+    {% if book[1].date == "" %}<li>Missing date</li>{% endif %}
+    {% if book[1].modified == "" %}<li>Missing modified</li>{% endif %}
+    {% if book[1].type == "" %}<li>Missing type</li>{% endif %}
+    {% if book[1].format == "" %}<li>Missing format</li>{% endif %}
+    {% if book[1].identifier == "" %}<li>Missing identifier</li>{% endif %}
+    {% if book[1].source == "" %}<li>Missing source</li>{% endif %}
+    {% if book[1].language == "" %}<li>Missing language</li>{% endif %}
+    {% if book[1].rights == "" %}<li>Missing rights</li>{% endif %}
+    {% if book[1].translations == "" %}
+        {% for lang in book[1].translations %}{{ lang }} ({{ site.data.meta.language-codes.[lang] }})
+        {% if book[1].translation.identifier == "" %}<li>Missing translation identifier</li>{% endif %}
+        {% if book[1].translation.title == "" %}<li>Missing translation title</li>{% endif %}
+        {% if book[1].translation.translator == "" %}<li>Missing translator</li>{% endif %}
+        {% endfor %}
+    {% endif %}
+</ul>
+
+{% endif %}
+
+{% endfor %}
+
+</div>

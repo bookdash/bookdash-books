@@ -70,6 +70,7 @@ $line-height-default: 150%;
 
 h1, h2, h3, h4, h5, h6 {
     clear: both;
+    width: 100%;
 }
 h1 {
     margin-bottom: 2em;
@@ -158,7 +159,7 @@ img {
     margin: 1em 0;
 }
 
-@mixin thumbnail() {
+.catalogue-thumbnail {
     float: left;
     margin: 0 1em 1em 0;
     max-width: 8em;
@@ -170,15 +171,8 @@ img {
             border: 1px solid #e0e0e0;
         }
     }
-    .caption {
+    .catalogue-thumbnail-label, .catalogue-thumbnail-translations {
         text-align: center;
     }
 
-}
-
-.index-thumbnail {
-    @include thumbnail();
-}
-.translation-thumbnail {
-    @include thumbnail();
 }

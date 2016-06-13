@@ -22,3 +22,7 @@ On this site we host HTML versions of Book Dash books for use in ereaders and mo
 *	For other ways to get involved, see [bookdash.org](http://bookdash.org/how-to-get-involved/).
 
 Everything is licensed under a [Creative Commons Attribution 4.0 licence](http://creativecommons.org/licenses/by/4.0/).
+
+## Project admin
+
+[Admin tools](admin){:.button}

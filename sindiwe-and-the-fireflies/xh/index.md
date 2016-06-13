@@ -6,7 +6,7 @@ layout: default
 style: chapter
 ---
 
-# USindiwe kunye neenkanyezi 
+# USindiwe kunye neenkanyezi
 
 ![A young Sindiwe reads a book.]({{ site.image-set }}/01.jpg)
 
