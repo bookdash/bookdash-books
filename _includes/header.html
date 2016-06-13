@@ -1,4 +1,5 @@
 {% include get-slug.html %}
+{% include get-lang.html %}
 {% if site.output == 'epub' %}
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="{{ site.data.meta.titles.[slug].language }}">
@@ -14,12 +15,24 @@
 	<link rel="stylesheet" type="text/css" href="../Styles/{{ page.stylesheet-epub }}" />
 	
 	<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
-		<meta name="DC.Title" content="{{ site.data.meta.titles.[slug].title }}" />
-		<meta name="DC.Language" content="{{ site.data.meta.titles.[slug].language }}" />
+		
+        {% if lang == 'en' %}
+        <meta name="DC.Title" content="{{ site.data.meta.titles.[slug].title }}" />
+        {% else %}
+        <meta name="DC.Title" content="{{ site.data.meta.titles.[slug].translations.[lang].title }}" />
+        {% endif %}
+
+		<meta name="DC.Language" content="{{ lang }}" />
 		<meta name="DC.Creator" content="{{ site.data.meta.titles.[slug].creator }}" />
 		<meta name="DC.Publisher" content="{{ site.data.meta.titles.[slug].publisher }}" />
 		<meta name="DC.Date" content="{{ site.data.meta.titles.[slug].date }}" />
-		<meta name="DC.Identifier" content="{{ site.data.meta.titles.[slug].epub.identifier }}" scheme="ISBN" />
+
+        {% if lang == 'en' %}
+		<meta name="DC.Identifier" content="{{ site.data.meta.titles.[slug].identifier }}" />
+        {% else %}
+        <meta name="DC.Identifier" content="{{ site.data.meta.titles.[slug].translations.[lang].identifier }}" />
+        {% endif %}
+
 		<meta name="DC.Relation" content="{{ site.data.metatitles..[slug].print.identifier }}" />
 		<meta name="DC.Description" CONTENT="{{ site.data.meta.titles.[slug].description }}" />
 

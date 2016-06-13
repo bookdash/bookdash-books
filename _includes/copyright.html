@@ -1,7 +1,7 @@
 {% include get-slug.html %}
 {% include get-lang.html %}
 {% capture lang-name %}{{ site.data.language-codes.[lang] }}{% endcapture %}
-{% unless page.style == "catalogue" or page.style == "admin" %}
+{% unless page.style == "catalogue" or page.style == "admin" or page.style == "cover" %}
 <blockquote class="copyright-text">
 
 
