@@ -1,5 +1,7 @@
 #!/bin/bash
-# That tells Linux to use a Bourne shell interpreter.
+cd -- "$(dirname "$0")"
+# That tells OSX to use a Bourne shell interpreter,
+# and then to run this script from the current directory.
 # Don't echo these commands:
 set +v
 # Ask user which folder to process
@@ -17,15 +19,15 @@ do
 	# let the user know we're on it!
 	echo "Generating HTML..."
 	# ...and run Jekyll to build new HTML
-	jekyll build --config="_config.yml,$config"
+	bundle exec jekyll build --config="_config.yml,$config"
 	# Navigate into the book's folder in _site output
 	cd _site/$book
 	# Let the user know we're now going to make the PDF
 	echo Creating PDF...
-	# Run prince, showing progress (-v), printing the docs in print-list
+	# Run prince, showing progress (-v), printing the docs in file-list
 	# and saving the resulting PDF to the _output folder
 	# (For some reason this has to be run with CALL)
-	prince -v -l print-list -o ../../_output/$book.pdf
+	prince -v -l file-list -o ../../_output/$book.pdf
 	# Navigate back to where we began.
 	cd ../..
 	# Tell the user we're done
