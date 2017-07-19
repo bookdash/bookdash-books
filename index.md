@@ -7,7 +7,7 @@ style: home
 
 # ![Book Dash](images/book-dash-logo.png){:.logo}
 
-[Book Dash](http://bookdash.org) volunteers are creative professionals who create high-quality children's books that anyone can freely translate, print and distribute. This site hosts the plain HTML versions. Go to [bookdash.org](http://bookdash.org/see/books) for PDFs and source files.
+[Book Dash](http://bookdash.org) volunteers are creative professionals who create high-quality children's books that anyone can freely translate, print and distribute. This site hosts the plain HTML versions. Go to [bookdash.org](http://bookdash.org/see/books) for PDFs and source files, and [the GitHub repository here for epubs](https://github.com/bookdash/bookdash-books/tree/gh-pages/download).
 
 {% include catalogue.html %}
 
